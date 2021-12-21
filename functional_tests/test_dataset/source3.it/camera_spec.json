@@ -1,0 +1,44 @@
+[
+  {
+    "spec": {
+      "Misure":"lunghezza 15 larghezza 20 altezza 30",
+	  "marca":"canon",
+	  "memoria interna":"16 GB",
+	  "colore":"black",
+	  "stype":"ccd",
+	  "risoluzione":"14 mp",
+      "lingue":"italian, english, spanish, french, dutch, chinese, arab, turkish, portuguese",
+      "esposizione":"100",
+      "out_of_gt":"text1"
+    },
+    "url": "http://source3/canon-152030"
+  },
+  {
+    "spec": {
+      "Misure":"lunghezza 15 larghezza 40 altezza 50",
+	  "marca":"canon",
+	  "memoria interna":"32 GB",
+	  "colore":"red",
+	  "stype":"cmos",
+	  "risoluzione":"14 mp",
+      "lingue":"italian, english, spanish, french, dutch, chinese, arab, turkish, portuguese",
+      "esposizione":"50",
+      "out_of_gt":"text2"
+    },
+    "url": "http://source3/canon-154050"
+  },
+  {
+    "spec": {
+      "Misure":"lunghezza 10 larghezza 15 altezza 20",
+	  "marca":"kodak",
+	  "memoria interna":"16 GB",
+	  "colore":"blue",
+	  "stype":"ccd",
+	  "risoluzione":"12 mp",
+      "lingue":"italian, english, spanish, french, dutch, chinese, arab, turkish",
+      "esposizione":"50",
+      "out_of_gt":"text3"
+    },
+    "url": "http://source3/kodak-101520"
+  }
+]

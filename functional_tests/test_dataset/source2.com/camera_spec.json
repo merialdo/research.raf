@@ -1,0 +1,83 @@
+[
+  {
+    "spec": {
+      "Length":"15",
+	  "Width": "20",
+	  "Height": "30",
+	  "Brand":"canon",
+	  "features":"color black, 16 GB, sensor ccd",
+	  "b model":"duracell",
+	  "b chemistry":"li-ion",
+      "iso":"iso 100",
+      "isolated_att": "fdfsdfsaf",
+      "resol":"14 mp front camera"
+    },
+    "url": "http://source2/canon-152030"
+  },
+  {
+    "spec": {
+      "Length":"15",
+	  "Width": "40",
+	  "Height": "50",
+	  "Brand":"canon",
+	  "features":"color red, 32 GB, sensor cmos",
+	  "b model":"energizer",
+	  "b chemistry":"ni-mh",
+      "iso":"50",
+      "isolated_att": "asdfasdfad",
+      "resol":"14 mp front"
+    },
+    "url": "http://source2/canon-154050"
+  },
+  {
+    "spec": {
+      "Length":"10",
+	  "Width": "15",
+	  "Height": "20",
+	  "Brand":"kodak",
+	  "features":"color blue, 16 GB, sensor ccd",
+	  "b model":"varta",
+	  "b chemistry":"li-ion",
+      "iso":"50"
+    },
+    "url": "http://source2/kodak-101520"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",	
+	  "features":"color blue, 16 GB, sensor ccd",
+	  "b model":"duracell",
+	  "b chemistry":"li-ion"
+    },
+    "url": "http://source2/kodak-ccd"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "features":"color red, 16 GB, sensor cmos",
+	  "b model":"varta",
+	  "b chemistry":"alkaline"
+    },
+    "url": "http://source2/kodak-cmos"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "features":"color red, 16 GB, sensor x3",
+	  "b model":"energizer",
+	  "b chemistry":"li-ion",
+    "warranty":"15 months",
+    "megapixels":"14"
+    },
+    "url": "http://source2/kodak-x3"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "features":"color blue, 16 GB, sensor liveMOS",
+    "warranty":"10 months",
+    "megapixels":"12 mp"
+    },
+    "url": "http://source2/kodak-liveMOS"
+  }
+]

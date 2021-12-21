@@ -1,0 +1,33 @@
+cluster_id_real,name,source
+0,capteur,source4.fr
+0,sensor,source1.com
+0,features,source2.com
+0,stype,source3.it
+2,brand,source1.com
+2,brand,source4.fr
+2,marca,source3.it
+2,brand,source2.com
+3,battery,source4.fr
+3,battery model,source1.com
+3,b model,source2.com
+4,features,source2.com
+4,colore,source3.it
+4,other,source4.fr
+4,color,source1.com
+5,dimensions,source1.com
+5,misure,source3.it
+6,b chemistry,source2.com
+6,battery,source4.fr
+6,battery chemistry,source1.com
+8,internal memory,source1.com
+8,features,source2.com
+8,other,source4.fr
+8,memoria interna,source3.it
+10,resolution,source1.com
+10,megapixels,source2.com
+10,risoluzione,source3.it
+12,languages,source1.com
+12,lingue,source3.it
+13,iso,source1.com
+13,iso,source2.com
+13,esposizione,source3.it

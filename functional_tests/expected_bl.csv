@@ -1,0 +1,6 @@
+cluster_id_real,name,source
+0,attribute_common_name,source1.com
+0,attribute_common_name,source2.com
+1,attribute_common_domain,source1.com
+1,acd,source2.com
+ISOLATED1,attribute_isolated_2,source1.com

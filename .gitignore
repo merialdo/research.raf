@@ -1,0 +1,14 @@
+*.pyc
+.idea/
+sandbox/
+config/local_config.ini
+config/algo_parameters.ini
+.DS_Store
+venv/
+conda_env/
+*.jar
+temp
+*.bin
+*.log
+external_tools/t2k/dbpedia
+external_tools/t2k/webtables

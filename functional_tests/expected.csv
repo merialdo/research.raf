@@ -1,0 +1,47 @@
+cluster_id_real,name,source
+0,capteur,source4.fr
+0,sensor,source1.com
+0,features,source2.com
+0,stype,source3.it
+2,brand,source1.com
+2,brand,source4.fr
+2,marca,source3.it
+2,brand,source2.com
+3,battery,source4.fr
+3,battery model,source1.com
+3,b model,source2.com
+4,features,source2.com
+4,colore,source3.it
+4,other,source4.fr
+4,color,source1.com
+5,dimensions,source1.com
+5,hauteur,source4.fr
+5,misure,source3.it
+5,height,source2.com
+6,b chemistry,source2.com
+6,battery,source4.fr
+6,battery chemistry,source1.com
+7,misure,source3.it
+7,dimensions,source1.com
+7,largeur,source4.fr
+7,width,source2.com
+8,internal memory,source1.com
+8,features,source2.com
+8,other,source4.fr
+8,memoria interna,source3.it
+10,resolution,source1.com
+10,megapixels,source2.com
+10,resol,source2.com
+10,risoluzione,source3.it
+10,megapixels,source4.fr
+11,longueur,source4.fr
+11,dimensions,source1.com
+11,misure,source3.it
+11,length,source2.com
+12,languages,source1.com
+12,lingue,source3.it
+13,resol,source2.com
+13,megapixels,source4.fr
+14,warranty,source2.com
+14,garantie,source4.fr
+ISOLATED_1,check it,source1.com

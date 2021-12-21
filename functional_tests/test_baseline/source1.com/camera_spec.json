@@ -1,0 +1,25 @@
+[
+  {
+    "spec": {
+      "attribute_common_name":"random_data_09090",
+      "attribute_common_domain":"data1",
+      "attribute_isolated_1":"random_data_098459485"
+    },
+    "url": "http://source1/p1"
+  },
+  {
+    "spec": {
+      "attribute_common_domain":"data2",
+      "attribute_isolated_2":"random_data_098459485"
+    },
+    "url": "http://source1/p2"
+  },
+  {
+    "spec": {
+      "attribute_common_name":"random_data_090966",
+      "attribute_common_domain":"data2",
+      "attribute_isolated_2":"random_data_098459485"
+    },
+    "url": "http://source1/p3"
+  }
+]

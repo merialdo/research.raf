@@ -1,0 +1,284 @@
+{
+    "canon-152030": {
+        "b chemistry__6": [
+            "http://source1/canon-152030/battery chemistry=li ion",
+            "http://source2/canon-152030/b chemistry=li ion"
+        ],
+        "b model__3": [
+            "http://source1/canon-152030/battery model=duracell",
+            "http://source2/canon-152030/b model=duracell",
+            "http://source4/canon-152030/battery=duracell"
+        ],
+        "brand__2": [
+            "http://source1/canon-152030/brand=canon",
+            "http://source2/canon-152030/brand=canon",
+            "http://source3/canon-152030/marca=canon",
+            "http://source4/canon-152030/brand=canon"
+        ],
+        "capteur__1": [
+            "http://source1/canon-152030/sensor=ccd",
+            "http://source2/canon-152030/features=color black 16 gb sensor ccd",
+            "http://source3/canon-152030/stype=ccd"
+        ],
+        "color__4": [
+            "http://source1/canon-152030/color=black",
+            "http://source2/canon-152030/features=color black 16 gb sensor ccd",
+            "http://source3/canon-152030/colore=black",
+            "http://source4/canon-152030/other=16 gb black"
+        ],
+        "esposizione__8": [
+            "http://source1/canon-152030/iso=iso 100 in steps of 1 2",
+            "http://source2/canon-152030/iso=iso 100",
+            "http://source3/canon-152030/esposizione=100"
+        ],
+        "hauteur__7": [
+            "http://source1/canon-152030/dimensions=15 x 20 x 30",
+            "http://source2/canon-152030/height=30",
+            "http://source3/canon-152030/misure=lunghezza 15 larghezza 20 altezza 30",
+            "http://source4/canon-152030/hauteur=30"
+        ],
+        "internal memory__9": [
+            "http://source1/canon-152030/internal memory=16 gb",
+            "http://source2/canon-152030/features=color black 16 gb sensor ccd",
+            "http://source3/canon-152030/memoria interna=16 gb",
+            "http://source4/canon-152030/other=16 gb black"
+        ],
+        "languages__12": [
+            "http://source1/canon-152030/languages=english dutch spanish italian french chinese arab turkish portuguese brazilian",
+            "http://source3/canon-152030/lingue=italian english spanish french dutch chinese arab turkish portuguese"
+        ],
+        "largeur__5": [
+            "http://source1/canon-152030/dimensions=15 x 20 x 30",
+            "http://source2/canon-152030/width=20",
+            "http://source3/canon-152030/misure=lunghezza 15 larghezza 20 altezza 30",
+            "http://source4/canon-152030/largeur=20"
+        ],
+        "length__11": [
+            "http://source1/canon-152030/dimensions=15 x 20 x 30",
+            "http://source2/canon-152030/length=15",
+            "http://source3/canon-152030/misure=lunghezza 15 larghezza 20 altezza 30",
+            "http://source4/canon-152030/longueur=15"
+        ],
+        "resolution__0": [
+            "http://source1/canon-152030/resolution=14.1 mp",
+            "http://source3/canon-152030/risoluzione=14 mp"
+        ]
+    },
+    "canon-154050": {
+        "b chemistry__6": [
+            "http://source1/canon-154050/battery chemistry=ni mh",
+            "http://source2/canon-154050/b chemistry=ni mh",
+            "http://source4/canon-154050/battery=ni mh"
+        ],
+        "b model__3": [
+            "http://source1/canon-154050/battery model=energizer",
+            "http://source2/canon-154050/b model=energizer"
+        ],
+        "brand__2": [
+            "http://source1/canon-154050/brand=canon",
+            "http://source2/canon-154050/brand=canon",
+            "http://source3/canon-154050/marca=canon",
+            "http://source4/canon-154050/brand=canon"
+        ],
+        "capteur__1": [
+            "http://source1/canon-154050/sensor=cmos",
+            "http://source2/canon-154050/features=color red 32 gb sensor cmos",
+            "http://source3/canon-154050/stype=cmos"
+        ],
+        "color__4": [
+            "http://source1/canon-154050/color=red",
+            "http://source2/canon-154050/features=color red 32 gb sensor cmos",
+            "http://source3/canon-154050/colore=red",
+            "http://source4/canon-154050/other=32 gb red"
+        ],
+        "esposizione__8": [
+            "http://source1/canon-154050/dimensions=15 x 40 x 50",
+            "http://source1/canon-154050/iso=iso 50, auto",
+            "http://source2/canon-154050/iso=50",
+            "http://source3/canon-154050/esposizione=50",
+            "http://source3/canon-154050/misure=lunghezza 15 larghezza 40 altezza 50"
+        ],
+        "hauteur__7": [
+            "http://source1/canon-154050/dimensions=15 x 40 x 50",
+            "http://source2/canon-154050/height=50",
+            "http://source3/canon-154050/misure=lunghezza 15 larghezza 40 altezza 50",
+            "http://source4/canon-154050/hauteur=50"
+        ],
+        "internal memory__9": [
+            "http://source1/canon-154050/internal memory=32 gb",
+            "http://source2/canon-154050/features=color red 32 gb sensor cmos",
+            "http://source3/canon-154050/memoria interna=32 gb",
+            "http://source4/canon-154050/other=32 gb red"
+        ],
+        "languages__12": [
+            "http://source1/canon-154050/languages=chinese arab italian english spanish french dutch turkish portuguese brazilian",
+            "http://source3/canon-154050/lingue=italian english spanish french dutch chinese arab turkish portuguese"
+        ],
+        "largeur__5": [
+            "http://source1/canon-154050/dimensions=15 x 40 x 50",
+            "http://source2/canon-154050/width=40",
+            "http://source3/canon-154050/misure=lunghezza 15 larghezza 40 altezza 50",
+            "http://source4/canon-154050/largeur=40"
+        ],
+        "length__11": [
+            "http://source1/canon-154050/dimensions=15 x 40 x 50",
+            "http://source2/canon-154050/length=15",
+            "http://source3/canon-154050/misure=lunghezza 15 larghezza 40 altezza 50",
+            "http://source4/canon-154050/longueur=15"
+        ],
+        "resolution__0": [
+            "http://source1/canon-154050/resolution=14.1 mp",
+            "http://source3/canon-154050/risoluzione=14 mp"
+        ]
+    },
+    "kodak-101520": {
+        "b chemistry__6": [
+            "http://source1/kodak-101520/battery chemistry=li ion",
+            "http://source2/kodak-101520/b chemistry=li ion",
+            "http://source4/kodak-101520/battery=varta li ion"
+        ],
+        "b model__3": [
+            "http://source1/kodak-101520/battery model=varta",
+            "http://source2/kodak-101520/b model=varta",
+            "http://source4/kodak-101520/battery=varta li ion"
+        ],
+        "brand__2": [
+            "http://source1/kodak-101520/brand=kodak",
+            "http://source2/kodak-101520/brand=kodak",
+            "http://source3/kodak-101520/marca=kodak",
+            "http://source4/kodak-101520/brand=kodak"
+        ],
+        "capteur__1": [
+            "http://source1/kodak-101520/sensor=ccd",
+            "http://source2/kodak-101520/features=color blue 16 gb sensor ccd",
+            "http://source3/kodak-101520/stype=ccd"
+        ],
+        "color__4": [
+            "http://source1/kodak-101520/color=blue",
+            "http://source2/kodak-101520/features=color blue 16 gb sensor ccd",
+            "http://source3/kodak-101520/colore=blue",
+            "http://source4/kodak-101520/other=16 gb blue"
+        ],
+        "esposizione__8": [
+            "http://source1/kodak-101520/iso=50",
+            "http://source2/kodak-101520/iso=50",
+            "http://source3/kodak-101520/esposizione=50"
+        ],
+        "hauteur__7": [
+            "http://source1/kodak-101520/dimensions=10 x 15 x 20",
+            "http://source2/kodak-101520/height=20",
+            "http://source3/kodak-101520/misure=lunghezza 10 larghezza 15 altezza 20",
+            "http://source4/kodak-101520/hauteur=20"
+        ],
+        "internal memory__9": [
+            "http://source1/kodak-101520/internal memory=16 gb",
+            "http://source2/kodak-101520/features=color blue 16 gb sensor ccd",
+            "http://source3/kodak-101520/memoria interna=16 gb",
+            "http://source4/kodak-101520/other=16 gb blue"
+        ],
+        "languages__12": [
+            "http://source1/kodak-101520/languages=spanish italian english french dutch chinese arab turkish",
+            "http://source3/kodak-101520/lingue=italian english spanish french dutch chinese arab turkish"
+        ],
+        "largeur__5": [
+            "http://source1/kodak-101520/dimensions=10 x 15 x 20",
+            "http://source2/kodak-101520/width=15",
+            "http://source3/kodak-101520/misure=lunghezza 10 larghezza 15 altezza 20",
+            "http://source4/kodak-101520/largeur=15"
+        ],
+        "length__11": [
+            "http://source1/kodak-101520/dimensions=10 x 15 x 20",
+            "http://source2/kodak-101520/length=10",
+            "http://source3/kodak-101520/misure=lunghezza 10 larghezza 15 altezza 20",
+            "http://source4/kodak-101520/longueur=10"
+        ],
+        "resolution__0": [
+            "http://source1/kodak-101520/resolution=12.1 mp",
+            "http://source3/kodak-101520/risoluzione=12 mp"
+        ]
+    },
+    "kodak-ccd": {
+        "b chemistry__6": [
+            "http://source2/kodak-ccd/b chemistry=li ion",
+            "http://source4/kodak-ccd/battery=li ion"
+        ],
+        "b model__3": [
+            "http://source2/kodak-ccd/b model=duracell"
+        ],
+        "brand__2": [
+            "http://source2/kodak-ccd/brand=kodak",
+            "http://source4/kodak-ccd/brand=kodak"
+        ],
+        "capteur__1": [
+            "http://source2/kodak-ccd/features=color blue 16 gb sensor ccd",
+            "http://source4/kodak-ccd/capteur=ccd"
+        ],
+        "color__4": [
+            "http://source2/kodak-ccd/features=color blue 16 gb sensor ccd"
+        ],
+        "internal memory__9": [
+            "http://source2/kodak-ccd/features=color blue 16 gb sensor ccd"
+        ]
+    },
+    "kodak-cmos": {
+        "b chemistry__6": [
+            "http://source2/kodak-cmos/b chemistry=alkaline"
+        ],
+        "b model__3": [
+            "http://source2/kodak-cmos/b model=varta"
+        ],
+        "brand__2": [
+            "http://source2/kodak-cmos/brand=kodak",
+            "http://source4/kodak-cmos/brand=kodak"
+        ],
+        "capteur__1": [
+            "http://source2/kodak-cmos/features=color red 16 gb sensor cmos",
+            "http://source4/kodak-cmos/capteur=cmos"
+        ],
+        "color__4": [
+            "http://source2/kodak-cmos/features=color red 16 gb sensor cmos"
+        ],
+        "internal memory__9": [
+            "http://source2/kodak-cmos/features=color red 16 gb sensor cmos"
+        ]
+    },
+    "kodak-liveMOS": {
+        "brand__2": [
+            "http://source2/kodak-liveMOS/brand=kodak",
+            "http://source4/kodak-liveMOS/brand=kodak"
+        ],
+        "capteur__1": [
+            "http://source2/kodak-liveMOS/features=color blue 16 gb sensor livemos",
+            "http://source4/kodak-liveMOS/capteur=livemos"
+        ],
+        "color__4": [
+            "http://source2/kodak-liveMOS/features=color blue 16 gb sensor livemos"
+        ],
+        "internal memory__9": [
+            "http://source2/kodak-liveMOS/features=color blue 16 gb sensor livemos"
+        ]
+    },
+    "kodak-x3": {
+        "b chemistry__6": [
+            "http://source2/kodak-x3/b chemistry=li ion"
+        ],
+        "b model__3": [
+            "http://source2/kodak-x3/b model=energizer",
+            "http://source4/kodak-x3/battery=energizer"
+        ],
+        "brand__2": [
+            "http://source2/kodak-x3/brand=kodak",
+            "http://source4/kodak-x3/brand=kodak"
+        ],
+        "capteur__1": [
+            "http://source2/kodak-x3/features=color red 16 gb sensor x 3",
+            "http://source4/kodak-x3/capteur=x 3"
+        ],
+        "color__4": [
+            "http://source2/kodak-x3/features=color red 16 gb sensor x 3"
+        ],
+        "internal memory__9": [
+            "http://source2/kodak-x3/features=color red 16 gb sensor x 3"
+        ]
+    }
+}

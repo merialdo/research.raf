@@ -1,0 +1,82 @@
+[
+  {
+    "spec": {
+      "Longueur":"15",
+      "largeur":"20",
+      "hauteur":"30",
+	  "Brand":"canon",
+	  "other":"16 GB, black",
+	  "battery":"duracell",
+      "out_of_gt2":"text1",
+      "megapixels":"14 mp front camera"
+    },
+    "url": "http://source4/canon-152030"
+  },
+  {
+    "spec": {
+      "Longueur":"15",
+      "largeur":"40",
+      "hauteur":"50",
+	  "Brand":"canon",
+	  "other":"32 GB, red",
+	  "battery":"ni-mh",
+      "out_of_gt2":"text2",
+      "megapixels":"14 mp front"
+    },
+    "url": "http://source4/canon-154050"
+  },
+  {
+    "spec": {
+      "Longueur":"10",
+      "largeur":"15",
+      "hauteur":"20",
+	  "Brand":"kodak",
+	  "other":"16 GB, blue",
+	  "battery":"varta li-ion",
+      "out_of_gt2":"text3",
+      "megapixels":"12 mp front"
+    },
+    "url": "http://source4/kodak-101520"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",	
+	  "capteur":"ccd",
+	  "battery":"li-ion",
+      "megapixels":"other stuff"
+    },
+    "url": "http://source4/kodak-ccd"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "capteur":"cmos"
+    },
+    "url": "http://source4/kodak-cmos"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "capteur":"x3",
+	  "battery":"energizer",
+    "garantie":"15 months"
+    },
+    "url": "http://source4/kodak-x3"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "capteur":"liveMOS",
+	  "battery":"foo-battery-model",
+    "garantie":"10 months"
+    },
+    "url": "http://source4/kodak-liveMOS"
+  },
+  {
+    "spec": {
+	  "Brand":"kodak",
+	  "capteur":"fooSensor"
+    },
+    "url": "http://source4/kodak-foo-sensor"
+  }
+]

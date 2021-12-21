@@ -1,0 +1,4 @@
+source1.com__camera
+source2.com__camera
+source3.it__camera
+source4.fr__camera

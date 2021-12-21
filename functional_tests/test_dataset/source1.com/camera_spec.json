@@ -1,0 +1,52 @@
+[
+  {
+    "spec": {
+      "Dimensions":"15 x 20 x 30",
+      "<page title>":"should be ignored",
+	  "Brand":"canon",
+	  "internal memory":"16 GB",
+	  "color":"black",
+	  "sensor":"ccd",
+	  "battery model":"duracell",
+	  "battery chemistry":"li-ion",
+	  "resolution":"14.1 mp",
+      "languages":"english, dutch, spanish, italian, french, chinese, arab, turkish, portuguese (brazilian)",
+      "iso":"iso 100 in steps of 1/2",
+      "check it":"here",
+      "isolated_out_gt": "text1"
+    },
+    "url": "http://source1/canon-152030"
+  },
+  {
+    "spec": {
+      "Dimensions":"15 x 40 x 50",
+	  "Brand":"canon",
+	  "internal memory":"32 GB",
+	  "color":"red",
+	  "sensor":"cmos",
+	  "battery model":"energizer",
+	  "battery chemistry":"ni-mh",
+	  "resolution":"14.1 mp",
+      "languages":"chinese, arab, italian, english, spanish, french, dutch, turkish, portuguese  (brazilian)",
+      "iso":"iso 50, auto",
+      "isolated_out_gt": "text1"
+    },
+    "url": "http://source1/canon-154050"
+  },
+  {
+    "spec": {
+      "Dimensions":"10 x 15 x 20",
+	  "Brand":"kodak",
+	  "internal memory":"16 GB",
+	  "color":"blue",
+	  "sensor":"ccd",
+	  "battery model":"varta",
+	  "battery chemistry":"li-ion",
+	  "resolution":"12.1 mp",
+      "languages":"spanish, italian, english, french, dutch, chinese, arab, turkish",
+      "iso":"50",
+      "check it":"here"
+    },
+    "url": "http://source1/kodak-101520"
+  }
+]

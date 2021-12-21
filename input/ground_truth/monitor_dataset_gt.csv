@@ -1,0 +1,1180 @@
+source,name,cluster_id_real,predicate_name
+www.pcconnection.com,actual weight,16,monitor_weight
+www.hardware-planet.it,altezza,15,monitor_height
+www.planet-computer.it,altezza,15,monitor_height
+www.hardware-planet.it,altezza con supporto,1500,monitor_height
+www.planet-computer.it,altezza con supporto,1500,monitor_height
+www.hardware-planet.it,altezza imballo,21,packaging_height
+www.planet-computer.it,altezza imballo,21,packaging_height
+www.planet-computer.it,altitudine di funzionamento,46,working_altitude
+www.planet-computer.it,altitudine di nonfunzionamento,47,working_altitude
+www.hardware-planet.it,altoparlante  cuffia  spinotto di uscita,3402,speakers
+www.planet-computer.it,altoparlante  cuffia  spinotto di uscita,3402,speakers
+www.hardware-planet.it,altoparlanti incorporati,34,speakers
+www.planet-computer.it,altoparlanti incorporati,34,speakers
+ca.pcpartpicker.com,aspect ratio,35,supported_aspect_ratio
+catalog.com,aspect ratio,35,supported_aspect_ratio
+www.best-deal-items.com,aspect ratio,35,supported_aspect_ratio
+www.cleverboxes.com,aspect ratio,35,supported_aspect_ratio
+www.ebay.com,aspect ratio,35,supported_aspect_ratio
+www.imldirect.it,aspect ratio,35,supported_aspect_ratio
+www.itenergy.co.uk,aspect ratio,35,supported_aspect_ratio
+www.jrlinton.co.uk,aspect ratio,35,supported_aspect_ratio
+www.kingsfieldcomputers.co.uk,aspect ratio,35,supported_aspect_ratio
+www.makingbuyingeasy.co.uk,aspect ratio,35,supported_aspect_ratio
+www.mediashopuk.com,aspect ratio,35,supported_aspect_ratio
+www.mrhightech.com,aspect ratio,35,supported_aspect_ratio
+www.nexus-t.co.uk,aspect ratio,35,supported_aspect_ratio
+www.odsi.co.uk,aspect ratio,35,supported_aspect_ratio
+www.officedepot.com,aspect ratio,35,supported_aspect_ratio
+www.ohc24.ch,aspect ratio,35,supported_aspect_ratio
+www.pc-canada.com,aspect ratio,35,supported_aspect_ratio
+www.shopmania.com,aspect ratio,35,supported_aspect_ratio
+www.softwarecity.ca,aspect ratio,35,supported_aspect_ratio
+www.vology.com,aspect ratio,35,supported_aspect_ratio
+www.xpcpro.com,aspect ratio,35,supported_aspect_ratio
+ce.yikus.com,aspectratio,35,supported_aspect_ratio
+www.pcconnection.com,attributes,34,speakers
+www.pcconnection.com,attributes,3400,speakers
+www.cleverboxes.com,audio capabilities,3400,speakers
+www.ebay.com,bluetooth,1,bluetooth
+www.hardware-planet.it,bluetooth,1,bluetooth
+www.makingbuyingeasy.co.uk,bluetooth,1,bluetooth
+www.mediashopuk.com,bluetooth,1,bluetooth
+www.mrhightech.com,bluetooth,1,bluetooth
+www.planet-computer.it,bluetooth,1,bluetooth
+www.xpcpro.com,bluetooth,1,bluetooth
+ce.yikus.com,brand,2,brand
+www.ebay.com,brand,2,brand
+www.shopmania.com,brand,2,brand
+www.imldirect.it,brand name,2,brand
+www.itenergy.co.uk,brand name,2,brand
+www.jrlinton.co.uk,brand name,2,brand
+www.kingsfieldcomputers.co.uk,brand name,2,brand
+www.officedepot.com,brand name,2,brand
+www.pc-canada.com,brand name,2,brand
+www.softwarecity.ca,brand name,2,brand
+ca.pcpartpicker.com,brightness,29,screen_brightness
+www.cleverboxes.com,brightness,29,screen_brightness
+www.ebay.com,brightness,29,screen_brightness
+www.imldirect.it,brightness,29,screen_brightness
+www.itenergy.co.uk,brightness,29,screen_brightness
+www.jrlinton.co.uk,brightness,29,screen_brightness
+www.kingsfieldcomputers.co.uk,brightness,29,screen_brightness
+www.nexus-t.co.uk,brightness,29,screen_brightness
+www.odsi.co.uk,brightness,29,screen_brightness
+www.officedepot.com,brightness,29,screen_brightness
+www.ohc24.ch,brightness,29,screen_brightness
+www.pc-canada.com,brightness,29,screen_brightness
+www.shopmania.com,brightness,29,screen_brightness
+www.softwarecity.ca,brightness,29,screen_brightness
+www.vology.com,brightness,29,screen_brightness
+www.pcconnection.com,brightness nitscdm2,29,screen_brightness
+www.best-deal-items.com,brightness typical,29,screen_brightness
+www.ebay.com,built in speakers,34,speakers
+ca.pcpartpicker.com,builtin speakers,34,speakers
+www.best-deal-items.com,builtin speakers,34,speakers
+www.makingbuyingeasy.co.uk,builtin speakers,34,speakers
+www.xpcpro.com,builtin speakers,34,speakers
+www.xpcpro.com,builtin subwoofer,34,speakers
+www.best-deal-items.com,case colour,3,color
+www.cleverboxes.com,case colour,3,color
+www.hardware-planet.it,classe efficienza energetica,27,power_consumption_class
+www.planet-computer.it,classe efficienza energetica,27,power_consumption_class
+www.hardware-planet.it,collegamento ethernet lan,7,ethernet_port
+www.planet-computer.it,collegamento ethernet lan,7,ethernet_port
+ce.yikus.com,color,3,color
+www.officedepot.com,color,3,color
+www.pc-canada.com,color,3,color
+www.pcconnection.com,color,3,color
+www.softwarecity.ca,color,3,color
+www.vology.com,color,3,color
+www.ebay.com,color depth,19,number_of_colors
+www.shopmania.com,color depth,19,number_of_colors
+www.ebay.com,color depth ja,19,number_of_colors
+www.best-deal-items.com,color support,19,number_of_colors
+www.pcconnection.com,color support,19,number_of_colors
+www.vology.com,color support,19,number_of_colors
+www.best-deal-items.com,color supported,19,number_of_colors
+www.officedepot.com,color supported,19,number_of_colors
+www.pc-canada.com,color supported,19,number_of_colors
+www.softwarecity.ca,color supported,19,number_of_colors
+www.planet-computer.it,colore del piede,300,color
+www.hardware-planet.it,colore del prodotto,3,color
+www.planet-computer.it,colore del prodotto,3,color
+www.hardware-planet.it,colore piedi,300,color
+www.hardware-planet.it,colori del display,19,number_of_colors
+www.planet-computer.it,colori del display,19,number_of_colors
+www.best-deal-items.com,colour,3,color
+www.cleverboxes.com,colour,3,color
+www.imldirect.it,colour,3,color
+www.itenergy.co.uk,colour,3,color
+www.jrlinton.co.uk,colour,3,color
+www.kingsfieldcomputers.co.uk,colour,3,color
+www.odsi.co.uk,colour,3,color
+www.ohc24.ch,colour,3,color
+www.odsi.co.uk,colour depth,19,number_of_colors
+www.makingbuyingeasy.co.uk,colour of product,3,color
+www.mediashopuk.com,colour of product,3,color
+www.mrhightech.com,colour of product,3,color
+www.xpcpro.com,colour of product,3,color
+www.best-deal-items.com,colour support,19,number_of_colors
+www.cleverboxes.com,colour support,19,number_of_colors
+www.ebay.com,colour support,19,number_of_colors
+www.imldirect.it,colour support,19,number_of_colors
+www.itenergy.co.uk,colour support,19,number_of_colors
+www.jrlinton.co.uk,colour support,19,number_of_colors
+www.kingsfieldcomputers.co.uk,colour support,19,number_of_colors
+www.odsi.co.uk,colour support,19,number_of_colors
+www.ohc24.ch,colour support,19,number_of_colors
+www.nexus-t.co.uk,colours,19,number_of_colors
+www.planet-computer.it,condizioni ambientali,48,working_humidity
+www.planet-computer.it,condizioni ambientali,49,working_temperature_max
+www.planet-computer.it,condizioni ambientali,51,working_temperature_min
+www.planet-computer.it,condizioni ambientali,46,working_altitude
+www.planet-computer.it,condizioni ambientali,47,working_altitude
+www.hardware-planet.it,connessione cuffia,901,headphone_port
+www.planet-computer.it,connessione cuffia,901,headphone_port
+www.hardware-planet.it,consumi,26,power_consumption
+www.planet-computer.it,consumi,26,power_consumption
+www.hardware-planet.it,consumi modalità risparmio energetico,25,power_consumption
+www.planet-computer.it,consumi modalità risparmio energetico,25,power_consumption
+www.hardware-planet.it,consumi modalità spento,25,power_consumption
+www.planet-computer.it,consumi modalità spento,25,power_consumption
+www.hardware-planet.it,consumi modalità standby,25,power_consumption
+www.planet-computer.it,consumi modalità standby,25,power_consumption
+ca.pcpartpicker.com,contrast ratio,4,contrast_ratio
+catalog.com,contrast ratio,4,contrast_ratio
+www.cleverboxes.com,contrast ratio,4,contrast_ratio
+www.cleverboxes.com,contrast ratio,400,contrast_ratio
+www.ebay.com,contrast ratio,4,contrast_ratio
+www.imldirect.it,contrast ratio,4,contrast_ratio
+www.itenergy.co.uk,contrast ratio,4,contrast_ratio
+www.jrlinton.co.uk,contrast ratio,4,contrast_ratio
+www.kingsfieldcomputers.co.uk,contrast ratio,4,contrast_ratio
+www.nexus-t.co.uk,contrast ratio,4,contrast_ratio
+www.odsi.co.uk,contrast ratio,4,contrast_ratio
+www.odsi.co.uk,contrast ratio,400,contrast_ratio
+www.officedepot.com,contrast ratio,4,contrast_ratio
+www.ohc24.ch,contrast ratio,4,contrast_ratio
+www.ohc24.ch,contrast ratio,400,contrast_ratio
+www.pc-canada.com,contrast ratio,4,contrast_ratio
+www.pcconnection.com,contrast ratio,4,contrast_ratio
+www.shopmania.com,contrast ratio,4,contrast_ratio
+www.softwarecity.ca,contrast ratio,4,contrast_ratio
+www.vology.com,contrast ratio,4,contrast_ratio
+www.vology.com,contrast ratio,400,contrast_ratio
+www.makingbuyingeasy.co.uk,contrast ratio dynamic,400,contrast_ratio
+www.mediashopuk.com,contrast ratio dynamic,400,contrast_ratio
+www.mrhightech.com,contrast ratio dynamic,400,contrast_ratio
+www.xpcpro.com,contrast ratio dynamic,400,contrast_ratio
+www.makingbuyingeasy.co.uk,contrast ratio typical,4,contrast_ratio
+www.mediashopuk.com,contrast ratio typical,4,contrast_ratio
+www.mrhightech.com,contrast ratio typical,4,contrast_ratio
+www.xpcpro.com,contrast ratio typical,4,contrast_ratio
+www.imldirect.it,depth,14,monitor_depth
+www.itenergy.co.uk,depth,14,monitor_depth
+www.jrlinton.co.uk,depth,14,monitor_depth
+www.kingsfieldcomputers.co.uk,depth,14,monitor_depth
+www.makingbuyingeasy.co.uk,depth,14,monitor_depth
+www.mediashopuk.com,depth,14,monitor_depth
+www.mrhightech.com,depth,14,monitor_depth
+www.odsi.co.uk,depth,14,monitor_depth
+www.officedepot.com,depth,14,monitor_depth
+www.pc-canada.com,depth,14,monitor_depth
+www.shopmania.com,depth,14,monitor_depth
+www.softwarecity.ca,depth,14,monitor_depth
+www.xpcpro.com,depth,14,monitor_depth
+www.imldirect.it,depth with stand,1400,monitor_depth
+www.itenergy.co.uk,depth with stand,1400,monitor_depth
+www.jrlinton.co.uk,depth with stand,1400,monitor_depth
+www.kingsfieldcomputers.co.uk,depth with stand,1400,monitor_depth
+www.makingbuyingeasy.co.uk,depth with stand,1400,monitor_depth
+www.mediashopuk.com,depth with stand,1400,monitor_depth
+www.mrhightech.com,depth with stand,1400,monitor_depth
+www.officedepot.com,depth with stand,1400,monitor_depth
+www.pc-canada.com,depth with stand,1400,monitor_depth
+www.softwarecity.ca,depth with stand,1400,monitor_depth
+www.xpcpro.com,depth with stand,1400,monitor_depth
+www.odsi.co.uk,device type,30,screen_size
+www.odsi.co.uk,device type,33,screen_type
+www.ohc24.ch,device type,30,screen_size
+www.ohc24.ch,device type,33,screen_type
+www.vology.com,device type,30,screen_size
+www.vology.com,device type,33,screen_type
+www.officedepot.com,diagonal screen size,30,screen_size
+www.odsi.co.uk,diagonal size,30,screen_size
+www.shopmania.com,diagonal size,30,screen_size
+www.vology.com,diagonal size,30,screen_size
+www.odsi.co.uk,diagonal size cm,30,screen_size
+www.best-deal-items.com,digital horizontal frequency,1000,horizontal_refresh_rate_max
+www.best-deal-items.com,digital horizontal frequency,1100,horizontal_refresh_rate_range
+www.makingbuyingeasy.co.uk,digital horizontal frequency,1000,horizontal_refresh_rate_max
+www.makingbuyingeasy.co.uk,digital horizontal frequency,1100,horizontal_refresh_rate_range
+www.mediashopuk.com,digital horizontal frequency,1000,horizontal_refresh_rate_max
+www.mediashopuk.com,digital horizontal frequency,1100,horizontal_refresh_rate_range
+www.mrhightech.com,digital horizontal frequency,1000,horizontal_refresh_rate_max
+www.mrhightech.com,digital horizontal frequency,1100,horizontal_refresh_rate_range
+www.xpcpro.com,digital horizontal frequency,1000,horizontal_refresh_rate_max
+www.xpcpro.com,digital horizontal frequency,1100,horizontal_refresh_rate_range
+www.best-deal-items.com,digital vertical frequency,4100,vertical_refresh_rate_max
+www.best-deal-items.com,digital vertical frequency,4200,vertical_refresh_rate_range
+www.makingbuyingeasy.co.uk,digital vertical frequency,4100,vertical_refresh_rate_max
+www.makingbuyingeasy.co.uk,digital vertical frequency,4200,vertical_refresh_rate_range
+www.mediashopuk.com,digital vertical frequency,4100,vertical_refresh_rate_max
+www.mediashopuk.com,digital vertical frequency,4200,vertical_refresh_rate_range
+www.mrhightech.com,digital vertical frequency,4100,vertical_refresh_rate_max
+www.mrhightech.com,digital vertical frequency,4200,vertical_refresh_rate_range
+www.xpcpro.com,digital vertical frequency,4100,vertical_refresh_rate_max
+www.xpcpro.com,digital vertical frequency,4200,vertical_refresh_rate_range
+www.planet-computer.it,dimensione visibile orizzontale,31,screen_size
+www.planet-computer.it,dimensione visibile verticale,32,screen_size
+www.planet-computer.it,dimensioni imballo lxpxa,20,packaging_depth
+www.planet-computer.it,dimensioni imballo lxpxa,21,packaging_height
+www.planet-computer.it,dimensioni imballo lxpxa,23,packaging_width
+www.hardware-planet.it,dimensioni schermo,30,screen_size
+www.planet-computer.it,dimensioni schermo,30,screen_size
+www.cleverboxes.com,dimensions,1400,monitor_depth
+www.cleverboxes.com,dimensions,1500,monitor_height
+www.cleverboxes.com,dimensions,1600,monitor_weight
+www.cleverboxes.com,dimensions,17,monitor_width
+www.officedepot.com,dimensions,1400,monitor_depth
+www.officedepot.com,dimensions,1500,monitor_height
+www.hardware-planet.it,larghezza,17,monitor_width
+www.vology.com,dimensions  weight,14,monitor_depth
+www.vology.com,dimensions  weight,1400,monitor_depth
+www.vology.com,dimensions  weight,15,monitor_height
+www.vology.com,dimensions  weight,1500,monitor_height
+www.vology.com,dimensions  weight,16,monitor_weight
+www.vology.com,dimensions  weight,1600,monitor_weight
+www.hardware-planet.it,larghezza con supporto,1700,monitor_width
+www.imldirect.it,width,17,monitor_width
+www.odsi.co.uk,dimensions  weight details,14,monitor_depth
+www.odsi.co.uk,dimensions  weight details,1400,monitor_depth
+www.odsi.co.uk,dimensions  weight details,15,monitor_height
+www.odsi.co.uk,dimensions  weight details,1500,monitor_height
+www.odsi.co.uk,dimensions  weight details,16,monitor_weight
+www.odsi.co.uk,dimensions  weight details,1600,monitor_weight
+www.imldirect.it,width with stand,1700,monitor_width
+www.itenergy.co.uk,width,17,monitor_width
+www.vology.com,dimensions  weight details,14,monitor_depth
+www.vology.com,dimensions  weight details,1400,monitor_depth
+www.vology.com,dimensions  weight details,15,monitor_height
+www.vology.com,dimensions  weight details,1500,monitor_height
+www.vology.com,dimensions  weight details,16,monitor_weight
+www.vology.com,dimensions  weight details,1600,monitor_weight
+www.itenergy.co.uk,width with stand,1700,monitor_width
+www.makingbuyingeasy.co.uk,dimensions w x d x h with stand,1400,monitor_depth
+www.makingbuyingeasy.co.uk,dimensions w x d x h with stand,1500,monitor_height
+www.jrlinton.co.uk,width,17,monitor_width
+www.odsi.co.uk,dimensions wxdxh,14,monitor_depth
+www.odsi.co.uk,dimensions wxdxh,1400,monitor_depth
+www.odsi.co.uk,dimensions wxdxh,15,monitor_height
+www.odsi.co.uk,dimensions wxdxh,1500,monitor_height
+www.jrlinton.co.uk,width with stand,1700,monitor_width
+www.kingsfieldcomputers.co.uk,width,17,monitor_width
+www.ohc24.ch,dimensions wxdxh,14,monitor_depth
+www.ohc24.ch,dimensions wxdxh,1400,monitor_depth
+www.ohc24.ch,dimensions wxdxh,15,monitor_height
+www.ohc24.ch,dimensions wxdxh,1500,monitor_height
+www.kingsfieldcomputers.co.uk,width with stand,1700,monitor_width
+www.makingbuyingeasy.co.uk,dimensions w x d x h with stand,17,monitor_width
+www.vology.com,dimensions wxdxh,14,monitor_depth
+www.vology.com,dimensions wxdxh,1400,monitor_depth
+www.vology.com,dimensions wxdxh,15,monitor_height
+www.vology.com,dimensions wxdxh,1500,monitor_height
+www.makingbuyingeasy.co.uk,width,17,monitor_width
+www.makingbuyingeasy.co.uk,width with stand,1700,monitor_width
+www.makingbuyingeasy.co.uk,display,33,screen_type
+www.mediashopuk.com,display,33,screen_type
+www.mrhightech.com,display,33,screen_type
+www.xpcpro.com,display,33,screen_type
+www.ebay.com,display  color support,19,number_of_colors
+www.makingbuyingeasy.co.uk,display brightness,29,screen_brightness
+www.mediashopuk.com,display brightness,29,screen_brightness
+www.mrhightech.com,display brightness,29,screen_brightness
+www.xpcpro.com,display brightness,29,screen_brightness
+ca.pcpartpicker.com,display colors,19,number_of_colors
+www.makingbuyingeasy.co.uk,display diagonal,30,screen_size
+www.mediashopuk.com,display diagonal,30,screen_size
+www.mrhightech.com,display diagonal,30,screen_size
+www.xpcpro.com,display diagonal,30,screen_size
+www.makingbuyingeasy.co.uk,display diagonal metric,30,screen_size
+www.mediashopuk.com,display diagonal metric,30,screen_size
+www.mrhightech.com,display diagonal metric,30,screen_size
+www.xpcpro.com,display diagonal metric,30,screen_size
+www.ebay.com,display format,38,supported_resolution
+www.odsi.co.uk,display format,38,supported_resolution
+www.makingbuyingeasy.co.uk,display number of colours,19,number_of_colors
+www.mediashopuk.com,display number of colours,19,number_of_colors
+www.mrhightech.com,display number of colours,19,number_of_colors
+www.xpcpro.com,display number of colours,19,number_of_colors
+www.best-deal-items.com,display ratio,35,supported_aspect_ratio
+www.best-deal-items.com,display resolution,38,supported_resolution
+www.getprice.com.au,display resolution,38,supported_resolution
+www.makingbuyingeasy.co.uk,display resolution,38,supported_resolution
+www.mediashopuk.com,display resolution,38,supported_resolution
+www.mrhightech.com,display resolution,38,supported_resolution
+www.xpcpro.com,display resolution,38,supported_resolution
+www.ebay.com,display response time,28,response_time
+www.pcconnection.com,display size,30,screen_size
+catalog.com,display technology,33,screen_type
+www.ebay.com,display technology,33,screen_type
+www.makingbuyingeasy.co.uk,display technology,33,screen_type
+www.mediashopuk.com,display technology,33,screen_type
+www.mrhightech.com,display technology,33,screen_type
+www.pcconnection.com,display technology,33,screen_type
+www.xpcpro.com,display technology,33,screen_type
+www.cleverboxes.com,display type,33,screen_type
+www.makingbuyingeasy.co.uk,display type,33,screen_type
+www.odsi.co.uk,display type,33,screen_type
+www.shopmania.com,display type,33,screen_type
+www.vology.com,display type,33,screen_type
+ca.pcpartpicker.com,displayport,5,displayport_port
+www.imldirect.it,displayport,501,displayport_port
+www.itenergy.co.uk,displayport,501,displayport_port
+www.jrlinton.co.uk,displayport,501,displayport_port
+www.kingsfieldcomputers.co.uk,displayport,501,displayport_port
+www.officedepot.com,displayport,501,displayport_port
+www.pc-canada.com,displayport,501,displayport_port
+www.softwarecity.ca,displayport,501,displayport_port
+www.cleverboxes.com,displayport in,5,displayport_port
+www.nexus-t.co.uk,displayports,5,displayport_port
+www.nexus-t.co.uk,displayports out,5,displayport_port
+www.makingbuyingeasy.co.uk,displayports quantity,5,displayport_port
+www.mediashopuk.com,displayports quantity,5,displayport_port
+www.mrhightech.com,displayports quantity,5,displayport_port
+www.xpcpro.com,displayports quantity,5,displayport_port
+www.hardware-planet.it,dot pitch,24,pixel_pitch
+www.pcconnection.com,dot pitch,24,pixel_pitch
+www.planet-computer.it,dot pitch,24,pixel_pitch
+www.shopmania.com,dot pitch,24,pixel_pitch
+ca.pcpartpicker.com,dvi,6,dvi_port
+www.best-deal-items.com,dvi,600,dvi_port
+www.cleverboxes.com,dvi,600,dvi_port
+www.ebay.com,dvi,6,dvi_port
+www.ebay.com,dvi,600,dvi_port
+www.imldirect.it,dvi,600,dvi_port
+www.itenergy.co.uk,dvi,600,dvi_port
+www.jrlinton.co.uk,dvi,600,dvi_port
+www.kingsfieldcomputers.co.uk,dvi,600,dvi_port
+www.officedepot.com,dvi,600,dvi_port
+www.pc-canada.com,dvi,600,dvi_port
+www.softwarecity.ca,dvi,600,dvi_port
+www.makingbuyingeasy.co.uk,dvi port,600,dvi_port
+www.mediashopuk.com,dvi port,600,dvi_port
+www.mrhightech.com,dvi port,600,dvi_port
+www.xpcpro.com,dvi port,600,dvi_port
+www.ebay.com,dvid,602,dvi_port
+www.ebay.com,dvid,603,dvi_port
+ca.pcpartpicker.com,dvid duallink,602,dvi_port
+www.ebay.com,dvid input,603,dvi_port
+www.best-deal-items.com,dvid ports,602,dvi_port
+www.nexus-t.co.uk,dvid ports,602,dvi_port
+www.best-deal-items.com,dvid ports quantity,602,dvi_port
+www.makingbuyingeasy.co.uk,dvid ports quantity,602,dvi_port
+www.mediashopuk.com,dvid ports quantity,602,dvi_port
+www.mrhightech.com,dvid ports quantity,602,dvi_port
+www.xpcpro.com,dvid ports quantity,602,dvi_port
+www.ebay.com,dvid with hdcp input,603,dvi_port
+www.mediashopuk.com,dvii ports quantity,601,dvi_port
+www.mrhightech.com,dvii ports quantity,601,dvi_port
+www.xpcpro.com,dvii ports quantity,601,dvi_port
+www.nexus-t.co.uk,dynamic contrast ratio,400,contrast_ratio
+www.shopmania.com,dynamic contrast ratio,400,contrast_ratio
+www.odsi.co.uk,enclosure colour,3,color
+www.odsi.co.uk,energy class,27,power_consumption_class
+www.ohc24.ch,energy class,27,power_consumption_class
+www.imldirect.it,energy efficiency class,27,power_consumption_class
+www.itenergy.co.uk,energy efficiency class,27,power_consumption_class
+www.jrlinton.co.uk,energy efficiency class,27,power_consumption_class
+www.kingsfieldcomputers.co.uk,energy efficiency class,27,power_consumption_class
+www.makingbuyingeasy.co.uk,energy efficiency class,27,power_consumption_class
+www.mediashopuk.com,energy efficiency class,27,power_consumption_class
+www.mrhightech.com,energy efficiency class,27,power_consumption_class
+www.xpcpro.com,energy efficiency class,27,power_consumption_class
+www.cleverboxes.com,environmental,48,working_humidity
+www.cleverboxes.com,environmental,49,working_temperature_max
+www.cleverboxes.com,environmental,51,working_temperature_min
+www.ebay.com,environmental parameters,48,working_humidity
+www.ebay.com,environmental parameters,49,working_temperature_max
+www.ebay.com,environmental parameters,51,working_temperature_min
+www.vology.com,environmental parameters,48,working_humidity
+www.vology.com,environmental parameters,49,working_temperature_max
+www.vology.com,environmental parameters,51,working_temperature_min
+www.makingbuyingeasy.co.uk,ethernet lan,7,ethernet_port
+www.mediashopuk.com,ethernet lan,7,ethernet_port
+www.mrhightech.com,ethernet lan,7,ethernet_port
+www.xpcpro.com,ethernet lan,7,ethernet_port
+www.xpcpro.com,ethernet lan connection,7,ethernet_port
+www.makingbuyingeasy.co.uk,ethernet lan rj45 ports,700,ethernet_port
+www.ebay.com,exterior color,3,color
+www.xpcpro.com,feet colour,300,color
+www.hardware-planet.it,formato,35,supported_aspect_ratio
+www.planet-computer.it,formato,35,supported_aspect_ratio
+www.hardware-planet.it,frequenza di ingresso,12,input_frequency
+www.planet-computer.it,frequenza di ingresso,12,input_frequency
+www.hardware-planet.it,frequenza scansione orizzontale,1000,horizontal_refresh_rate_max
+www.hardware-planet.it,frequenza scansione orizzontale,1100,horizontal_refresh_rate_range
+www.planet-computer.it,frequenza scansione orizzontale,1000,horizontal_refresh_rate_max
+www.planet-computer.it,frequenza scansione orizzontale,1100,horizontal_refresh_rate_range
+www.hardware-planet.it,frequenza scansione verticale,4100,vertical_refresh_rate_max
+www.hardware-planet.it,frequenza scansione verticale,4200,vertical_refresh_rate_range
+www.planet-computer.it,frequenza scansione verticale,4100,vertical_refresh_rate_max
+www.planet-computer.it,frequenza scansione verticale,4200,vertical_refresh_rate_range
+www.hardware-planet.it,full hd,3900,supported_resolution
+www.makingbuyingeasy.co.uk,full hd,3900,supported_resolution
+www.planet-computer.it,full hd,3900,supported_resolution
+www.xpcpro.com,full hd,3900,supported_resolution
+www.nexus-t.co.uk,gross weight,22,packaging_weight
+www.best-deal-items.com,hd type,39,supported_resolution
+www.makingbuyingeasy.co.uk,hd type,39,supported_resolution
+www.mediashopuk.com,hd type,39,supported_resolution
+www.mrhightech.com,hd type,39,supported_resolution
+www.xpcpro.com,hd type,39,supported_resolution
+ca.pcpartpicker.com,hdmi,8,hdmi_port
+www.cleverboxes.com,hdmi,800,hdmi_port
+www.hardware-planet.it,hdmi,800,hdmi_port
+www.imldirect.it,hdmi,800,hdmi_port
+www.itenergy.co.uk,hdmi,800,hdmi_port
+www.jrlinton.co.uk,hdmi,800,hdmi_port
+www.kingsfieldcomputers.co.uk,hdmi,800,hdmi_port
+www.officedepot.com,hdmi,800,hdmi_port
+www.pc-canada.com,hdmi,800,hdmi_port
+www.planet-computer.it,hdmi,800,hdmi_port
+www.softwarecity.ca,hdmi,800,hdmi_port
+www.xpcpro.com,hdmi,800,hdmi_port
+www.ebay.com,hdmi input,800,hdmi_port
+www.cleverboxes.com,hdmi ports,8,hdmi_port
+www.nexus-t.co.uk,hdmi ports,8,hdmi_port
+www.shopmania.com,hdmi ports,8,hdmi_port
+www.ebay.com,hdmi ports qty,8,hdmi_port
+www.odsi.co.uk,hdmi ports qty,8,hdmi_port
+www.ohc24.ch,hdmi ports qty,8,hdmi_port
+www.makingbuyingeasy.co.uk,hdmi ports quantity,8,hdmi_port
+www.mediashopuk.com,hdmi ports quantity,8,hdmi_port
+www.mrhightech.com,hdmi ports quantity,8,hdmi_port
+www.xpcpro.com,hdmi ports quantity,8,hdmi_port
+www.ebay.com,headphone,900,headphone_port
+www.imldirect.it,headphone,900,headphone_port
+www.itenergy.co.uk,headphone,900,headphone_port
+www.jrlinton.co.uk,headphone,900,headphone_port
+www.kingsfieldcomputers.co.uk,headphone,900,headphone_port
+www.pc-canada.com,headphone,900,headphone_port
+www.softwarecity.ca,headphone,900,headphone_port
+www.makingbuyingeasy.co.uk,headphone connectivity,901,headphone_port
+www.mediashopuk.com,headphone connectivity,901,headphone_port
+www.mrhightech.com,headphone connectivity,901,headphone_port
+www.xpcpro.com,headphone connectivity,901,headphone_port
+www.officedepot.com,headphone jack,900,headphone_port
+www.nexus-t.co.uk,headphone jacks,9,headphone_port
+www.makingbuyingeasy.co.uk,headphone out,900,headphone_port
+www.mediashopuk.com,headphone out,9,headphone_port
+www.mrhightech.com,headphone out,9,headphone_port
+www.xpcpro.com,headphone out,9,headphone_port
+www.xpcpro.com,headphone out,900,headphone_port
+www.makingbuyingeasy.co.uk,headphone outputs,9,headphone_port
+www.xpcpro.com,headphone outputs,9,headphone_port
+www.cleverboxes.com,headphone ports,9,headphone_port
+www.cleverboxes.com,headphone ports,901,headphone_port
+www.imldirect.it,height,15,monitor_height
+www.itenergy.co.uk,height,15,monitor_height
+www.jrlinton.co.uk,height,15,monitor_height
+www.kingsfieldcomputers.co.uk,height,15,monitor_height
+www.makingbuyingeasy.co.uk,height,15,monitor_height
+www.mediashopuk.com,height,15,monitor_height
+www.mrhightech.com,height,15,monitor_height
+www.odsi.co.uk,height,15,monitor_height
+www.officedepot.com,height,15,monitor_height
+www.pc-canada.com,height,15,monitor_height
+www.shopmania.com,height,15,monitor_height
+www.softwarecity.ca,height,15,monitor_height
+www.xpcpro.com,height,15,monitor_height
+www.imldirect.it,height with stand,1500,monitor_height
+www.itenergy.co.uk,height with stand,1500,monitor_height
+www.jrlinton.co.uk,height with stand,1500,monitor_height
+www.kingsfieldcomputers.co.uk,height with stand,1500,monitor_height
+www.makingbuyingeasy.co.uk,height with stand,1500,monitor_height
+www.mediashopuk.com,height with stand,1500,monitor_height
+www.mrhightech.com,height with stand,1500,monitor_height
+www.officedepot.com,height with stand,1500,monitor_height
+www.pc-canada.com,height with stand,1500,monitor_height
+www.softwarecity.ca,height with stand,1500,monitor_height
+www.xpcpro.com,height with stand,1500,monitor_height
+www.softwarecity.ca,horizontal frequency,10,horizontal_refresh_rate_max
+www.nexus-t.co.uk,horizontal frequency range,10,horizontal_refresh_rate_max
+www.nexus-t.co.uk,horizontal frequency range,11,horizontal_refresh_rate_range
+www.best-deal-items.com,horizontal refresh rate,10,horizontal_refresh_rate_max
+www.best-deal-items.com,horizontal refresh rate,11,horizontal_refresh_rate_range
+www.ebay.com,horizontal refresh rate,10,horizontal_refresh_rate_max
+www.ebay.com,horizontal refresh rate,11,horizontal_refresh_rate_range
+www.odsi.co.uk,horizontal refresh rate,10,horizontal_refresh_rate_max
+www.odsi.co.uk,horizontal refresh rate,11,horizontal_refresh_rate_range
+www.vology.com,horizontal refresh rate,10,horizontal_refresh_rate_max
+www.vology.com,horizontal refresh rate,11,horizontal_refresh_rate_range
+www.best-deal-items.com,horizontal scan range,10,horizontal_refresh_rate_max
+www.best-deal-items.com,horizontal scan range,11,horizontal_refresh_rate_range
+www.makingbuyingeasy.co.uk,horizontal scan range,10,horizontal_refresh_rate_max
+www.makingbuyingeasy.co.uk,horizontal scan range,11,horizontal_refresh_rate_range
+www.mediashopuk.com,horizontal scan range,10,horizontal_refresh_rate_max
+www.mediashopuk.com,horizontal scan range,11,horizontal_refresh_rate_range
+www.mrhightech.com,horizontal scan range,10,horizontal_refresh_rate_max
+www.mrhightech.com,horizontal scan range,11,horizontal_refresh_rate_range
+www.xpcpro.com,horizontal scan range,10,horizontal_refresh_rate_max
+www.xpcpro.com,horizontal scan range,11,horizontal_refresh_rate_range
+www.best-deal-items.com,humidity range operating,48,working_humidity
+www.ebay.com,humidity range operating,48,working_humidity
+www.odsi.co.uk,humidity range operating,48,working_humidity
+www.vology.com,humidity range operating,48,working_humidity
+www.ebay.com,humidity rh non condensing,48,working_humidity
+www.best-deal-items.com,image aspect ratio,35,supported_aspect_ratio
+www.ebay.com,image aspect ratio,35,supported_aspect_ratio
+www.odsi.co.uk,image aspect ratio,35,supported_aspect_ratio
+www.ohc24.ch,image aspect ratio,35,supported_aspect_ratio
+www.pcconnection.com,image aspect ratio,35,supported_aspect_ratio
+www.ebay.com,image brightness,29,screen_brightness
+www.odsi.co.uk,image brightness,29,screen_brightness
+www.pcconnection.com,image brightness,29,screen_brightness
+www.odsi.co.uk,image contrast ratio,4,contrast_ratio
+www.makingbuyingeasy.co.uk,input frequency,12,input_frequency
+www.mediashopuk.com,input frequency,12,input_frequency
+www.mrhightech.com,input frequency,12,input_frequency
+www.xpcpro.com,input frequency,12,input_frequency
+www.officedepot.com,integrated speakers,34,speakers
+www.pcconnection.com,internal resolution max,38,supported_resolution
+www.hardware-planet.it,intervallo di scansione verticale,41,vertical_refresh_rate_max
+www.hardware-planet.it,intervallo di scansione verticale,42,vertical_refresh_rate_range
+www.planet-computer.it,intervallo di scansione verticale,41,vertical_refresh_rate_max
+www.planet-computer.it,intervallo di scansione verticale,42,vertical_refresh_rate_range
+www.hardware-planet.it,intervallo di temperatura,49,working_temperature_max
+www.hardware-planet.it,intervallo di temperatura,51,working_temperature_min
+www.planet-computer.it,intervallo di temperatura,49,working_temperature_max
+www.planet-computer.it,intervallo di temperatura,51,working_temperature_min
+www.hardware-planet.it,intervallo temperatura di funzionamento,49,working_temperature_max
+www.hardware-planet.it,intervallo temperatura di funzionamento,51,working_temperature_min
+www.planet-computer.it,intervallo temperatura di funzionamento,49,working_temperature_max
+www.planet-computer.it,intervallo temperatura di funzionamento,51,working_temperature_min
+ce.yikus.com,label,2,brand
+www.cleverboxes.com,language selection,36,supported_languages_number
+www.cleverboxes.com,language selection,36,supported_languages_number
+www.mediashopuk.com,width,17,monitor_width
+www.mediashopuk.com,width with stand,1700,monitor_width
+www.mrhightech.com,width,17,monitor_width
+www.mrhightech.com,width with stand,1700,monitor_width
+www.hardware-planet.it,larghezza imballo,23,packaging_width
+www.planet-computer.it,larghezza imballo,23,packaging_width
+www.best-deal-items.com,limited warranty,44,warranty_duration
+www.imldirect.it,limited warranty,44,warranty_duration
+www.itenergy.co.uk,limited warranty,44,warranty_duration
+www.jrlinton.co.uk,limited warranty,44,warranty_duration
+www.kingsfieldcomputers.co.uk,limited warranty,44,warranty_duration
+www.pc-canada.com,limited warranty,44,warranty_duration
+www.softwarecity.ca,limited warranty,44,warranty_duration
+www.hardware-planet.it,lingue osd,37,supported_languages
+www.planet-computer.it,lingue osd,37,supported_languages
+www.hardware-planet.it,luminosità,29,screen_brightness
+www.hardware-planet.it,luminosità schermo,29,screen_brightness
+www.planet-computer.it,luminosità schermo,29,screen_brightness
+ca.pcpartpicker.com,manufacturer,2,brand
+ce.yikus.com,manufacturer,2,brand
+www.ebay.com,manufacturer,2,brand
+www.imldirect.it,manufacturer,2,brand
+www.itenergy.co.uk,manufacturer,2,brand
+www.jrlinton.co.uk,manufacturer,2,brand
+www.kingsfieldcomputers.co.uk,manufacturer,2,brand
+www.nexus-t.co.uk,manufacturer,2,brand
+www.odsi.co.uk,manufacturer,2,brand
+www.pc-canada.com,manufacturer,2,brand
+www.softwarecity.ca,manufacturer,2,brand
+www.odsi.co.uk,manufacturer warranty,44,warranty_duration
+www.ohc24.ch,manufacturer warranty,44,warranty_duration
+www.vology.com,manufacturer warranty,44,warranty_duration
+www.ebay.com,manufacturersupplier,2,brand
+www.ebay.com,max operating temperature,49,working_temperature_max
+www.odsi.co.uk,max operating temperature,49,working_temperature_max
+www.vology.com,max operating temperature,49,working_temperature_max
+catalog.com,max resolution,38,supported_resolution
+www.ebay.com,max resolution,38,supported_resolution
+www.nexus-t.co.uk,max resolution,38,supported_resolution
+www.odsi.co.uk,max resolution,38,supported_resolution
+www.ebay.com,maximum colors,19,number_of_colors
+www.cleverboxes.com,maximum resolution,38,supported_resolution
+www.ebay.com,maximum resolution,38,supported_resolution
+www.imldirect.it,maximum resolution,38,supported_resolution
+www.itenergy.co.uk,maximum resolution,38,supported_resolution
+www.jrlinton.co.uk,maximum resolution,38,supported_resolution
+www.kingsfieldcomputers.co.uk,maximum resolution,38,supported_resolution
+www.officedepot.com,maximum resolution,38,supported_resolution
+www.pc-canada.com,maximum resolution,38,supported_resolution
+www.softwarecity.ca,maximum resolution,38,supported_resolution
+www.xpcpro.com,maximum resolution,38,supported_resolution
+www.cleverboxes.com,maximum response time,28,response_time
+www.hardware-planet.it,microfono incorporato,13,microphone_type
+www.planet-computer.it,microfono incorporato,13,microphone_type
+www.hardware-planet.it,microfono spinotto dingresso,1300,microphone_type
+www.planet-computer.it,microfono spinotto dingresso,1300,microphone_type
+www.ebay.com,microphone,13,microphone_type
+www.makingbuyingeasy.co.uk,microphone in,1300,microphone_type
+www.mediashopuk.com,microphone in,1300,microphone_type
+www.mrhightech.com,microphone in,1300,microphone_type
+www.xpcpro.com,microphone in,1300,microphone_type
+www.ebay.com,min operating temperature,51,working_temperature_min
+www.odsi.co.uk,min operating temperature,51,working_temperature_min
+www.vology.com,min operating temperature,51,working_temperature_min
+www.makingbuyingeasy.co.uk,mini displayport quantity,500,displayport_port
+ca.pcpartpicker.com,minidisplay port,500,displayport_port
+www.hardware-planet.it,modalità video supportate,38,supported_resolution
+www.planet-computer.it,modalità video supportate,38,supported_resolution
+www.officedepot.com,monitor brightness,29,screen_brightness
+www.getprice.com.au,monitor type,33,screen_type
+www.imldirect.it,mount type,18,mount_type
+www.itenergy.co.uk,mount type,18,mount_type
+www.jrlinton.co.uk,mount type,18,mount_type
+www.kingsfieldcomputers.co.uk,mount type,18,mount_type
+www.officedepot.com,mount type,18,mount_type
+www.pc-canada.com,mount type,18,mount_type
+www.softwarecity.ca,mount type,18,mount_type
+www.odsi.co.uk,native maximum resolution,38,supported_resolution
+www.best-deal-items.com,native resolution,38,supported_resolution
+www.odsi.co.uk,native resolution,38,supported_resolution
+www.ohc24.ch,native resolution,38,supported_resolution
+www.vology.com,native resolution,38,supported_resolution
+www.nexus-t.co.uk,net weight,16,monitor_weight
+www.best-deal-items.com,network rj45,7,ethernet_port
+www.imldirect.it,network rj45,7,ethernet_port
+www.itenergy.co.uk,network rj45,7,ethernet_port
+www.jrlinton.co.uk,network rj45,7,ethernet_port
+www.kingsfieldcomputers.co.uk,network rj45,7,ethernet_port
+www.officedepot.com,network rj45,7,ethernet_port
+www.softwarecity.ca,network rj45,7,ethernet_port
+www.mediashopuk.com,nonoperating altitude,47,working_altitude
+www.mrhightech.com,nonoperating altitude,47,working_altitude
+www.xpcpro.com,nonoperating altitude,47,working_altitude
+www.nexus-t.co.uk,normal power consumption,26,power_consumption
+www.makingbuyingeasy.co.uk,number of colours,19,number_of_colors
+www.ebay.com,number of dvi,6,dvi_port
+www.ebay.com,number of hdmi inputs,8,hdmi_port
+www.ebay.com,number of hdmi ports,8,hdmi_port
+www.best-deal-items.com,number of loudspeakers,3400,speakers
+www.makingbuyingeasy.co.uk,number of loudspeakers,3400,speakers
+www.xpcpro.com,number of loudspeakers,3400,speakers
+www.makingbuyingeasy.co.uk,number of osd languages,36,supported_languages_number
+www.xpcpro.com,number of osd languages,36,supported_languages_number
+www.ebay.com,number of speakers,3400,speakers
+www.imldirect.it,number of speakers,3400,speakers
+www.itenergy.co.uk,number of speakers,3400,speakers
+www.jrlinton.co.uk,number of speakers,3400,speakers
+www.kingsfieldcomputers.co.uk,number of speakers,3400,speakers
+www.officedepot.com,number of speakers,3400,speakers
+www.pc-canada.com,number of speakers,3400,speakers
+www.shopmania.com,number of speakers,3400,speakers
+www.softwarecity.ca,number of speakers,3400,speakers
+www.ebay.com,number of usb 30 ports,4001,usb_port
+www.best-deal-items.com,number of usb ports,40,usb_port
+www.ebay.com,number of usb ports,40,usb_port
+www.hardware-planet.it,numero di altoparlanti,3400,speakers
+www.planet-computer.it,numero di altoparlanti,3400,speakers
+www.hardware-planet.it,numero di lingue osd,36,supported_languages_number
+www.planet-computer.it,numero di lingue osd,36,supported_languages_number
+www.ebay.com,offmode power consumption,25,power_consumption
+www.imldirect.it,offmode power consumption,25,power_consumption
+www.itenergy.co.uk,offmode power consumption,25,power_consumption
+www.jrlinton.co.uk,offmode power consumption,25,power_consumption
+www.kingsfieldcomputers.co.uk,offmode power consumption,25,power_consumption
+www.officedepot.com,offmode power consumption,25,power_consumption
+www.pc-canada.com,offmode power consumption,25,power_consumption
+www.softwarecity.ca,offmode power consumption,25,power_consumption
+www.makingbuyingeasy.co.uk,on screen display osd languages,37,supported_languages
+www.xpcpro.com,on screen display osd languages,37,supported_languages
+www.makingbuyingeasy.co.uk,operating altitude,46,working_altitude
+www.mediashopuk.com,operating altitude,46,working_altitude
+www.mrhightech.com,operating altitude,46,working_altitude
+www.ebay.com,operating humidity rh non condensing,48,working_humidity
+www.imldirect.it,operating power consumption,26,power_consumption
+www.itenergy.co.uk,operating power consumption,26,power_consumption
+www.jrlinton.co.uk,operating power consumption,26,power_consumption
+www.kingsfieldcomputers.co.uk,operating power consumption,26,power_consumption
+www.officedepot.com,operating power consumption,26,power_consumption
+www.pc-canada.com,operating power consumption,26,power_consumption
+www.softwarecity.ca,operating power consumption,26,power_consumption
+www.best-deal-items.com,operating relative humidity hh,48,working_humidity
+www.makingbuyingeasy.co.uk,operating relative humidity hh,48,working_humidity
+www.mediashopuk.com,operating relative humidity hh,48,working_humidity
+www.mrhightech.com,operating relative humidity hh,48,working_humidity
+www.xpcpro.com,operating relative humidity hh,48,working_humidity
+www.best-deal-items.com,operating relative humidity range,48,working_humidity
+www.xpcpro.com,operating relative humidity range,48,working_humidity
+www.xpcpro.com,operating temperature range tt,49,working_temperature_max
+www.xpcpro.com,operating temperature range tt,51,working_temperature_min
+www.makingbuyingeasy.co.uk,operating temperature tt,49,working_temperature_max
+www.makingbuyingeasy.co.uk,operating temperature tt,51,working_temperature_min
+www.mediashopuk.com,operating temperature tt,49,working_temperature_max
+www.mediashopuk.com,operating temperature tt,51,working_temperature_min
+www.mrhightech.com,operating temperature tt,49,working_temperature_max
+www.mrhightech.com,operating temperature tt,51,working_temperature_min
+www.xpcpro.com,operating temperature tt,49,working_temperature_max
+www.xpcpro.com,operating temperature tt,51,working_temperature_min
+www.odsi.co.uk,osd languages,37,supported_languages
+www.vology.com,osd languages,37,supported_languages
+www.makingbuyingeasy.co.uk,package dimensions wxdxh,20,packaging_depth
+www.makingbuyingeasy.co.uk,package dimensions wxdxh,21,packaging_height
+www.makingbuyingeasy.co.uk,package dimensions wxdxh,23,packaging_width
+www.nexus-t.co.uk,package height,21,packaging_height
+www.nexus-t.co.uk,package length,23,packaging_width
+www.mediashopuk.com,package weight,22,packaging_weight
+www.mrhightech.com,package weight,22,packaging_weight
+www.xpcpro.com,package weight,22,packaging_weight
+www.nexus-t.co.uk,package width,23,packaging_width
+www.makingbuyingeasy.co.uk,packaging depth,20,packaging_depth
+www.mediashopuk.com,packaging depth,20,packaging_depth
+www.mrhightech.com,packaging depth,20,packaging_depth
+www.xpcpro.com,packaging depth,20,packaging_depth
+www.makingbuyingeasy.co.uk,packaging height,21,packaging_height
+www.mediashopuk.com,packaging height,21,packaging_height
+www.mrhightech.com,packaging height,21,packaging_height
+www.xpcpro.com,packaging height,21,packaging_height
+www.makingbuyingeasy.co.uk,packaging width,23,packaging_width
+www.mediashopuk.com,packaging width,23,packaging_width
+www.mrhightech.com,packaging width,23,packaging_width
+www.xpcpro.com,packaging width,23,packaging_width
+www.hardware-planet.it,peso,16,monitor_weight
+www.planet-computer.it,peso,16,monitor_weight
+www.hardware-planet.it,peso incluso imballo,22,packaging_weight
+www.planet-computer.it,peso incluso imballo,22,packaging_weight
+www.hardware-planet.it,peso prodotto con supporto,1600,monitor_weight
+www.planet-computer.it,peso prodotto con supporto,1600,monitor_weight
+www.pcconnection.com,physical dimensions,14,monitor_depth
+www.pcconnection.com,physical dimensions,15,monitor_height
+www.nexus-t.co.uk,product width,17,monitor_width
+www.cleverboxes.com,pixel pitch,24,pixel_pitch
+www.makingbuyingeasy.co.uk,pixel pitch,24,pixel_pitch
+www.mediashopuk.com,pixel pitch,24,pixel_pitch
+www.mrhightech.com,pixel pitch,24,pixel_pitch
+www.nexus-t.co.uk,pixel pitch,24,pixel_pitch
+www.odsi.co.uk,pixel pitch,24,pixel_pitch
+www.ohc24.ch,pixel pitch,24,pixel_pitch
+www.vology.com,pixel pitch,24,pixel_pitch
+www.xpcpro.com,pixel pitch,24,pixel_pitch
+www.hardware-planet.it,porta dvi,600,dvi_port
+www.planet-computer.it,porta dvi,600,dvi_port
+www.cleverboxes.com,power consumption,25,power_consumption
+www.cleverboxes.com,power consumption,26,power_consumption
+www.makingbuyingeasy.co.uk,power consumption max,26,power_consumption
+www.mediashopuk.com,power consumption max,26,power_consumption
+www.mrhightech.com,power consumption max,26,power_consumption
+www.xpcpro.com,power consumption max,26,power_consumption
+www.makingbuyingeasy.co.uk,power consumption off,25,power_consumption
+www.mediashopuk.com,power consumption off,25,power_consumption
+www.mrhightech.com,power consumption off,25,power_consumption
+www.xpcpro.com,power consumption off,25,power_consumption
+www.odsi.co.uk,power consumption operational,26,power_consumption
+www.shopmania.com,power consumption operational,26,power_consumption
+www.vology.com,power consumption operational,26,power_consumption
+www.makingbuyingeasy.co.uk,power consumption powersave,25,power_consumption
+www.mediashopuk.com,power consumption powersave,25,power_consumption
+www.mrhightech.com,power consumption powersave,25,power_consumption
+www.xpcpro.com,power consumption powersave,25,power_consumption
+www.vology.com,power consumption sleep,25,power_consumption
+www.odsi.co.uk,power consumption stand by,25,power_consumption
+www.shopmania.com,power consumption stand by,25,power_consumption
+www.vology.com,power consumption stand by,25,power_consumption
+www.best-deal-items.com,power consumption stand by  sleep,25,power_consumption
+www.odsi.co.uk,power consumption stand by  sleep,25,power_consumption
+www.vology.com,power consumption stand by  sleep,25,power_consumption
+www.makingbuyingeasy.co.uk,power consumption standby,25,power_consumption
+www.mediashopuk.com,power consumption standby,25,power_consumption
+www.mrhightech.com,power consumption standby,25,power_consumption
+www.xpcpro.com,power consumption standby,25,power_consumption
+www.makingbuyingeasy.co.uk,power consumption typical,26,power_consumption
+www.mediashopuk.com,power consumption typical,26,power_consumption
+www.mrhightech.com,power consumption typical,26,power_consumption
+www.xpcpro.com,power consumption typical,26,power_consumption
+www.best-deal-items.com,product color,3,color
+www.ebay.com,product color,3,color
+www.odsi.co.uk,product description,2,brand
+www.odsi.co.uk,product description,30,screen_size
+www.odsi.co.uk,product description,33,screen_type
+www.ohc24.ch,product description,30,screen_size
+www.ohc24.ch,product description,33,screen_type
+www.vology.com,product description,2,brand
+www.vology.com,product description,30,screen_size
+www.vology.com,product description,33,screen_type
+www.nexus-t.co.uk,product height,1500,monitor_height
+www.nexus-t.co.uk,product height without stand,15,monitor_height
+www.nexus-t.co.uk,product length,1400,monitor_depth
+www.nexus-t.co.uk,product length without stand,14,monitor_depth
+www.imldirect.it,product name,30,screen_size
+www.imldirect.it,product name,33,screen_type
+www.itenergy.co.uk,product name,30,screen_size
+www.itenergy.co.uk,product name,33,screen_type
+www.jrlinton.co.uk,product name,30,screen_size
+www.jrlinton.co.uk,product name,33,screen_type
+www.kingsfieldcomputers.co.uk,product name,30,screen_size
+www.kingsfieldcomputers.co.uk,product name,33,screen_type
+www.nexus-t.co.uk,product name,2,brand
+www.nexus-t.co.uk,product name,30,screen_size
+www.nexus-t.co.uk,product name,33,screen_type
+www.nexus-t.co.uk,product name,38,supported_resolution
+www.nexus-t.co.uk,product name,28,response_time
+www.nexus-t.co.uk,product name,3,color
+www.officedepot.com,product name,30,screen_size
+www.officedepot.com,product name,33,screen_type
+www.pc-canada.com,product name,30,screen_size
+www.pc-canada.com,product name,33,screen_type
+www.shopmania.com,product name,2,brand
+www.cleverboxes.com,product type,33,screen_type
+www.imldirect.it,product type,33,screen_type
+www.itenergy.co.uk,product type,33,screen_type
+www.kingsfieldcomputers.co.uk,product type,33,screen_type
+www.odsi.co.uk,product type,33,screen_type
+www.officedepot.com,product type,33,screen_type
+www.pc-canada.com,product type,33,screen_type
+www.pcconnection.com,product type,18,mount_type
+www.softwarecity.ca,product type,30,screen_size
+www.softwarecity.ca,product type,33,screen_type
+www.nexus-t.co.uk,product width without stand,17,monitor_width
+www.odsi.co.uk,dimensions  weight details,17,monitor_width
+www.hardware-planet.it,profondità,14,monitor_depth
+www.planet-computer.it,profondità,14,monitor_depth
+www.hardware-planet.it,profondità con supporto,1400,monitor_depth
+www.planet-computer.it,profondità con supporto,1400,monitor_depth
+www.hardware-planet.it,profondità imballo,20,packaging_depth
+www.planet-computer.it,profondità imballo,20,packaging_depth
+www.ebay.com,projector image brightness,29,screen_brightness
+ce.yikus.com,publisher,2,brand
+www.hardware-planet.it,quantità displayports,5,displayport_port
+www.planet-computer.it,quantità displayports,5,displayport_port
+www.hardware-planet.it,quantità porte dvid,602,dvi_port
+www.planet-computer.it,quantità porte dvid,602,dvi_port
+www.planet-computer.it,quantità porte ethernet lan rj45,700,ethernet_port
+www.hardware-planet.it,quantità porte hdmi,8,hdmi_port
+www.planet-computer.it,quantità porte hdmi,8,hdmi_port
+www.hardware-planet.it,quantità porte usb 20,4000,usb_port
+www.planet-computer.it,quantità porte usb 20,4000,usb_port
+www.hardware-planet.it,quantità porte usb 30,4001,usb_port
+www.planet-computer.it,quantità porte usb 30,4001,usb_port
+www.hardware-planet.it,quantità porte vga dsub,43,vga_port
+www.planet-computer.it,quantità porte vga dsub,43,vga_port
+www.hardware-planet.it,range di scansione orizzontale,10,horizontal_refresh_rate_max
+www.hardware-planet.it,range di scansione orizzontale,11,horizontal_refresh_rate_range
+www.planet-computer.it,range di scansione orizzontale,10,horizontal_refresh_rate_max
+www.planet-computer.it,range di scansione orizzontale,11,horizontal_refresh_rate_range
+www.hardware-planet.it,range di umidità di funzionamento,48,working_humidity
+www.planet-computer.it,range di umidità di funzionamento,48,working_humidity
+www.hardware-planet.it,rapporto daspetto,35,supported_aspect_ratio
+www.hardware-planet.it,rapporto di contrasto,4,contrast_ratio
+www.planet-computer.it,rapporto di contrasto,4,contrast_ratio
+www.hardware-planet.it,rapporto di contrasto dinamico,400,contrast_ratio
+www.planet-computer.it,rapporto di contrasto dinamico,400,contrast_ratio
+www.xpcpro.com,reaktionszeit,28,response_time
+www.nexus-t.co.uk,recommend resolution,38,supported_resolution
+ca.pcpartpicker.com,recommended resolution,38,supported_resolution
+www.ebay.com,recommended resolution,38,supported_resolution
+ca.pcpartpicker.com,refresh rate,41,vertical_refresh_rate_max
+catalog.com,refresh rate,41,vertical_refresh_rate_max
+www.ebay.com,refresh rate,41,vertical_refresh_rate_max
+www.odsi.co.uk,refresh rate,41,vertical_refresh_rate_max
+www.hardware-planet.it,regolazioni formato schermo,35,supported_aspect_ratio
+www.makingbuyingeasy.co.uk,relative humidity,48,working_humidity
+www.mediashopuk.com,relative humidity,48,working_humidity
+www.mrhightech.com,relative humidity,48,working_humidity
+www.xpcpro.com,relative humidity,48,working_humidity
+www.odsi.co.uk,resolution,38,supported_resolution
+www.ohc24.ch,resolution,38,supported_resolution
+www.shopmania.com,resolution,38,supported_resolution
+www.cleverboxes.com,resolution maximum,38,supported_resolution
+www.cleverboxes.com,resolution native,38,supported_resolution
+www.cleverboxes.com,resolution native,39,supported_resolution
+ca.pcpartpicker.com,response time,28,response_time
+www.cleverboxes.com,response time,28,response_time
+www.ebay.com,response time,28,response_time
+www.getprice.com.au,response time,28,response_time
+www.imldirect.it,response time,28,response_time
+www.itenergy.co.uk,response time,28,response_time
+www.jrlinton.co.uk,response time,28,response_time
+www.kingsfieldcomputers.co.uk,response time,28,response_time
+www.makingbuyingeasy.co.uk,response time,28,response_time
+www.mediashopuk.com,response time,28,response_time
+www.mrhightech.com,response time,28,response_time
+www.nexus-t.co.uk,response time,28,response_time
+www.odsi.co.uk,response time,28,response_time
+www.officedepot.com,response time,28,response_time
+www.ohc24.ch,response time,28,response_time
+www.pc-canada.com,response time,28,response_time
+www.shopmania.com,response time,28,response_time
+www.softwarecity.ca,response time,28,response_time
+www.vology.com,response time,28,response_time
+www.xpcpro.com,response time,28,response_time
+www.pcconnection.com,response timerate,28,response_time
+www.hardware-planet.it,risoluzione,38,supported_resolution
+www.planet-computer.it,risoluzione,38,supported_resolution
+www.planet-computer.it,risoluzione consigliata,38,supported_resolution
+www.hardware-planet.it,risoluzione massima,38,supported_resolution
+www.planet-computer.it,risoluzione massima,38,supported_resolution
+www.hardware-planet.it,risoluzioni grafiche supportate,38,supported_resolution
+www.planet-computer.it,risoluzioni grafiche supportate,38,supported_resolution
+www.ebay.com,scan format,38,supported_resolution
+www.cleverboxes.com,scan frequency horizontal,10,horizontal_refresh_rate_max
+www.cleverboxes.com,scan frequency horizontal,11,horizontal_refresh_rate_range
+www.cleverboxes.com,scan frequency vertical,41,vertical_refresh_rate_max
+www.cleverboxes.com,scan frequency vertical,42,vertical_refresh_rate_range
+www.ebay.com,screen brightness,29,screen_brightness
+www.cleverboxes.com,screen dimensions,30,screen_size
+www.nexus-t.co.uk,screen features,39,supported_resolution
+www.imldirect.it,screen mode,39,supported_resolution
+www.itenergy.co.uk,screen mode,39,supported_resolution
+www.jrlinton.co.uk,screen mode,39,supported_resolution
+www.kingsfieldcomputers.co.uk,screen mode,39,supported_resolution
+www.officedepot.com,screen mode,39,supported_resolution
+www.pc-canada.com,screen mode,39,supported_resolution
+www.softwarecity.ca,screen mode,39,supported_resolution
+www.ebay.com,screen refresh rate,41,vertical_refresh_rate_max
+ca.pcpartpicker.com,screen size,30,screen_size
+www.ebay.com,screen size,30,screen_size
+www.imldirect.it,screen size,30,screen_size
+www.itenergy.co.uk,screen size,30,screen_size
+www.jrlinton.co.uk,screen size,30,screen_size
+www.kingsfieldcomputers.co.uk,screen size,30,screen_size
+www.nexus-t.co.uk,screen size,30,screen_size
+www.officedepot.com,screen size,30,screen_size
+www.pc-canada.com,screen size,30,screen_size
+www.softwarecity.ca,screen size,30,screen_size
+www.cleverboxes.com,screen type,33,screen_type
+www.cleverboxes.com,screen type,19,screen_type
+www.nexus-t.co.uk,screen type,33,screen_type
+www.best-deal-items.com,service  support,44,warranty_duration
+www.ebay.com,service  support,44,warranty_duration
+www.odsi.co.uk,service  support,44,warranty_duration
+www.vology.com,service  support,44,warranty_duration
+www.odsi.co.uk,service  support details,44,warranty_duration
+ce.yikus.com,size,30,screen_size
+www.ebay.com,speaker qty,3400,speakers
+www.ebay.com,speaker system,3400,speakers
+www.odsi.co.uk,speaker system,3400,speakers
+www.ohc24.ch,speaker system,3400,speakers
+www.cleverboxes.com,speakers,34,speakers
+www.cleverboxes.com,speakers,3400,speakers
+www.getprice.com.au,speakers,34,speakers
+www.imldirect.it,speakers,34,speakers
+www.itenergy.co.uk,speakers,34,speakers
+www.jrlinton.co.uk,speakers,34,speakers
+www.kingsfieldcomputers.co.uk,speakers,34,speakers
+www.nexus-t.co.uk,speakers,34,speakers
+www.odsi.co.uk,speakers,3400,speakers
+www.officedepot.com,speakers,34,speakers
+www.pc-canada.com,speakers,34,speakers
+www.softwarecity.ca,speakers,34,speakers
+www.pcconnection.com,speakers included,3400,speakers
+www.best-deal-items.com,standard refresh rate,41,vertical_refresh_rate_max
+www.ebay.com,standard refresh rate,41,vertical_refresh_rate_max
+www.imldirect.it,standard refresh rate,41,vertical_refresh_rate_max
+www.itenergy.co.uk,standard refresh rate,41,vertical_refresh_rate_max
+www.jrlinton.co.uk,standard refresh rate,41,vertical_refresh_rate_max
+www.kingsfieldcomputers.co.uk,standard refresh rate,41,vertical_refresh_rate_max
+www.officedepot.com,standard refresh rate,41,vertical_refresh_rate_max
+www.pc-canada.com,standard refresh rate,41,vertical_refresh_rate_max
+www.softwarecity.ca,standard refresh rate,41,vertical_refresh_rate_max
+www.ebay.com,standby power consumption,25,power_consumption
+www.imldirect.it,standby power consumption,25,power_consumption
+www.itenergy.co.uk,standby power consumption,25,power_consumption
+www.jrlinton.co.uk,standby power consumption,25,power_consumption
+www.kingsfieldcomputers.co.uk,standby power consumption,25,power_consumption
+www.nexus-t.co.uk,standby power consumption,25,power_consumption
+www.officedepot.com,standby power consumption,25,power_consumption
+www.pc-canada.com,standby power consumption,25,power_consumption
+www.softwarecity.ca,standby power consumption,25,power_consumption
+www.best-deal-items.com,storage relative humidity hh,48,working_humidity
+www.makingbuyingeasy.co.uk,storage relative humidity hh,48,working_humidity
+www.mediashopuk.com,storage relative humidity hh,48,working_humidity
+www.mrhightech.com,storage relative humidity hh,48,working_humidity
+www.xpcpro.com,storage relative humidity hh,48,working_humidity
+www.best-deal-items.com,storage relative humidity range,48,working_humidity
+www.xpcpro.com,storage relative humidity range,48,working_humidity
+www.xpcpro.com,storage temperature range tt,49,working_temperature_max
+www.xpcpro.com,storage temperature range tt,51,working_temperature_min
+www.makingbuyingeasy.co.uk,storage temperature tt,49,working_temperature_max
+www.makingbuyingeasy.co.uk,storage temperature tt,51,working_temperature_min
+www.mediashopuk.com,storage temperature tt,49,working_temperature_max
+www.mediashopuk.com,storage temperature tt,51,working_temperature_min
+www.mrhightech.com,storage temperature tt,49,working_temperature_max
+www.mrhightech.com,storage temperature tt,51,working_temperature_min
+www.xpcpro.com,storage temperature tt,49,working_temperature_max
+www.xpcpro.com,storage temperature tt,51,working_temperature_min
+ce.yikus.com,studio,2,brand
+www.hardware-planet.it,subwoofer incorporato,3401,speakers
+www.planet-computer.it,subwoofer incorporato,3401,speakers
+www.ebay.com,support details full contract period,44,warranty_duration
+www.odsi.co.uk,supported computer resolutions,38,supported_resolution
+www.best-deal-items.com,supported graphics resolutions,38,supported_resolution
+www.makingbuyingeasy.co.uk,supported graphics resolutions,38,supported_resolution
+www.mediashopuk.com,supported graphics resolutions,38,supported_resolution
+www.mrhightech.com,supported graphics resolutions,38,supported_resolution
+www.xpcpro.com,supported graphics resolutions,38,supported_resolution
+www.ebay.com,supported resolutions,38,supported_resolution
+www.makingbuyingeasy.co.uk,supported video modes,38,supported_resolution
+www.mediashopuk.com,supported video modes,38,supported_resolution
+www.mrhightech.com,supported video modes,38,supported_resolution
+www.xpcpro.com,supported video modes,38,supported_resolution
+www.hardware-planet.it,tecnologia display,33,screen_type
+www.planet-computer.it,tecnologia display,33,screen_type
+www.hardware-planet.it,tempo di risposta,28,response_time
+www.planet-computer.it,tempo di risposta,28,response_time
+www.hardware-planet.it,tipo di display,33,screen_type
+www.hardware-planet.it,tipologia display,33,screen_type
+www.planet-computer.it,tipologia display,33,screen_type
+www.hardware-planet.it,tipologia hd,39,supported_resolution
+www.planet-computer.it,tipologia hd,39,supported_resolution
+www.officedepot.com,typical response time,28,response_time
+www.hardware-planet.it,umidità,48,working_humidity
+www.planet-computer.it,umidità,48,working_humidity
+www.planet-computer.it,umidità relativa,48,working_humidity
+www.imldirect.it,usb,4003,usb_port
+www.itenergy.co.uk,usb,4003,usb_port
+www.jrlinton.co.uk,usb,4003,usb_port
+www.kingsfieldcomputers.co.uk,usb,4003,usb_port
+www.officedepot.com,usb,4003,usb_port
+www.pc-canada.com,usb,4003,usb_port
+www.softwarecity.ca,usb,4003,usb_port
+www.nexus-t.co.uk,usb 20 downstream ports,4000,usb_port
+www.best-deal-items.com,usb 20 ports,4000,usb_port
+www.best-deal-items.com,usb 20 ports quantity,4000,usb_port
+www.makingbuyingeasy.co.uk,usb 20 ports quantity,4000,usb_port
+www.mediashopuk.com,usb 20 ports quantity,4000,usb_port
+www.mrhightech.com,usb 20 ports quantity,4000,usb_port
+www.xpcpro.com,usb 20 ports quantity,4000,usb_port
+www.nexus-t.co.uk,usb 20 upstream ports,4004,usb_port
+www.nexus-t.co.uk,usb 30 downstream ports,4001,usb_port
+www.makingbuyingeasy.co.uk,usb 30 ports quantity,4001,usb_port
+www.mediashopuk.com,usb 30 ports quantity,4001,usb_port
+www.mrhightech.com,usb 30 ports quantity,4001,usb_port
+www.xpcpro.com,usb 30 ports quantity,4001,usb_port
+www.nexus-t.co.uk,usb 30 upstream ports,4005,usb_port
+www.ebay.com,usb hub,4002,usb_port
+www.ebay.com,usb hub,4003,usb_port
+www.ebay.com,usb hub,4004,usb_port
+www.ohc24.ch,usb port,40,usb_port
+www.ohc24.ch,usb port,4003,usb_port
+www.cleverboxes.com,usb ports,40,usb_port
+www.cleverboxes.com,usb ports,4002,usb_port
+www.cleverboxes.com,usb ports,4004,usb_port
+www.shopmania.com,usb ports,40,usb_port
+www.ebay.com,usb ports qty,40,usb_port
+www.xpcpro.com,usb powered,4003,usb_port
+www.makingbuyingeasy.co.uk,usb required,4003,usb_port
+www.ebay.com,usb standard,4002,usb_port
+www.imldirect.it,usb standard,4002,usb_port
+www.itenergy.co.uk,usb standard,4002,usb_port
+www.jrlinton.co.uk,usb standard,4002,usb_port
+www.kingsfieldcomputers.co.uk,usb standard,4002,usb_port
+www.officedepot.com,usb standard,4002,usb_port
+www.pc-canada.com,usb standard,4002,usb_port
+www.softwarecity.ca,usb standard,4002,usb_port
+www.makingbuyingeasy.co.uk,usb version,4002,usb_port
+www.hardware-planet.it,velocità refresh orizzontale,10,horizontal_refresh_rate_max
+www.hardware-planet.it,velocità refresh orizzontale,11,horizontal_refresh_rate_range
+www.hardware-planet.it,velocità refresh verticale,41,vertical_refresh_rate_max
+www.hardware-planet.it,velocità refresh verticale,42,vertical_refresh_rate_range
+www.nexus-t.co.uk,vertical frequency range,41,vertical_refresh_rate_max
+www.nexus-t.co.uk,vertical frequency range,42,vertical_refresh_rate_range
+www.best-deal-items.com,vertical refresh rate,41,vertical_refresh_rate_max
+www.best-deal-items.com,vertical refresh rate,42,vertical_refresh_rate_range
+www.ebay.com,vertical refresh rate,41,vertical_refresh_rate_max
+www.ebay.com,vertical refresh rate,42,vertical_refresh_rate_range
+www.odsi.co.uk,vertical refresh rate,41,vertical_refresh_rate_max
+www.odsi.co.uk,vertical refresh rate,42,vertical_refresh_rate_range
+www.vology.com,vertical refresh rate,41,vertical_refresh_rate_max
+www.vology.com,vertical refresh rate,42,vertical_refresh_rate_range
+www.best-deal-items.com,vertical scan range,41,vertical_refresh_rate_max
+www.best-deal-items.com,vertical scan range,42,vertical_refresh_rate_range
+www.makingbuyingeasy.co.uk,vertical scan range,41,vertical_refresh_rate_max
+www.makingbuyingeasy.co.uk,vertical scan range,42,vertical_refresh_rate_range
+www.mediashopuk.com,vertical scan range,41,vertical_refresh_rate_max
+www.mediashopuk.com,vertical scan range,42,vertical_refresh_rate_range
+www.mrhightech.com,vertical scan range,41,vertical_refresh_rate_max
+www.mrhightech.com,vertical scan range,42,vertical_refresh_rate_range
+www.xpcpro.com,vertical scan range,41,vertical_refresh_rate_max
+www.xpcpro.com,vertical scan range,42,vertical_refresh_rate_range
+ca.pcpartpicker.com,vga,43,vga_port
+www.best-deal-items.com,vga,4300,vga_port
+www.cleverboxes.com,vga,4300,vga_port
+www.imldirect.it,vga,4300,vga_port
+www.itenergy.co.uk,vga,4300,vga_port
+www.jrlinton.co.uk,vga,4300,vga_port
+www.kingsfieldcomputers.co.uk,vga,4300,vga_port
+www.officedepot.com,vga,4300,vga_port
+www.pc-canada.com,vga,4300,vga_port
+www.softwarecity.ca,vga,4300,vga_port
+www.makingbuyingeasy.co.uk,vga dsub input ports,43,vga_port
+www.best-deal-items.com,vga dsub ports,43,vga_port
+www.makingbuyingeasy.co.uk,vga dsub ports quantity,43,vga_port
+www.mediashopuk.com,vga dsub ports quantity,43,vga_port
+www.mrhightech.com,vga dsub ports quantity,43,vga_port
+www.xpcpro.com,vga dsub ports quantity,43,vga_port
+www.cleverboxes.com,vga in,43,vga_port
+www.ebay.com,vga input,4300,vga_port
+www.nexus-t.co.uk,vga ports,43,vga_port
+www.officedepot.com,viewable image size,30,screen_size
+www.odsi.co.uk,viewable size,30,screen_size
+www.vology.com,viewable size,30,screen_size
+www.cleverboxes.com,wall mount,1800,mount_type
+www.nexus-t.co.uk,wall mount,1800,mount_type
+ce.yikus.com,warranty,44,warranty_duration
+www.cleverboxes.com,warranty,44,warranty_duration
+www.pcconnection.com,warranty  labor,44,warranty_duration
+www.nexus-t.co.uk,warranty direct with manufacturer,44,warranty_duration
+www.officedepot.com,warranty length,44,warranty_duration
+www.makingbuyingeasy.co.uk,weight,16,monitor_weight
+www.mediashopuk.com,weight,16,monitor_weight
+www.mrhightech.com,weight,16,monitor_weight
+www.odsi.co.uk,weight,16,monitor_weight
+www.officedepot.com,weight,16,monitor_weight
+www.ohc24.ch,weight,1600,monitor_weight
+www.shopmania.com,weight,16,monitor_weight
+www.vology.com,weight,16,monitor_weight
+www.xpcpro.com,weight,16,monitor_weight
+www.imldirect.it,weight approximate,16,monitor_weight
+www.itenergy.co.uk,weight approximate,16,monitor_weight
+www.jrlinton.co.uk,weight approximate,16,monitor_weight
+www.kingsfieldcomputers.co.uk,weight approximate,16,monitor_weight
+www.pc-canada.com,weight approximate,16,monitor_weight
+www.softwarecity.ca,weight approximate,16,monitor_weight
+www.makingbuyingeasy.co.uk,weight with stand,1600,monitor_weight
+www.mediashopuk.com,weight with stand,1600,monitor_weight
+www.mrhightech.com,weight with stand,1600,monitor_weight
+www.xpcpro.com,weight with stand,1600,monitor_weight
+www.imldirect.it,weight with stand approximate,1600,monitor_weight
+www.itenergy.co.uk,weight with stand approximate,1600,monitor_weight
+www.jrlinton.co.uk,weight with stand approximate,1600,monitor_weight
+www.kingsfieldcomputers.co.uk,weight with stand approximate,1600,monitor_weight
+www.officedepot.com,weight with stand approximate,1600,monitor_weight
+www.pc-canada.com,weight with stand approximate,1600,monitor_weight
+www.softwarecity.ca,weight with stand approximate,1600,monitor_weight
+www.odsi.co.uk,dimensions  weight details,1700,monitor_width
+www.odsi.co.uk,dimensions wxdxh,17,monitor_width
+www.odsi.co.uk,dimensions wxdxh,1700,monitor_width
+www.odsi.co.uk,width,17,monitor_width
+www.officedepot.com,dimensions,17,monitor_width
+www.officedepot.com,width,17,monitor_width
+www.officedepot.com,width with stand,1700,monitor_width
+www.ohc24.ch,dimensions wxdxh,17,monitor_width
+www.ohc24.ch,dimensions wxdxh,1700,monitor_width
+www.pc-canada.com,width,17,monitor_width
+www.pc-canada.com,width with stand,1700,monitor_width
+www.pcconnection.com,physical dimensions,17,monitor_width
+www.planet-computer.it,larghezza,17,monitor_width
+www.planet-computer.it,larghezza con supporto,1700,monitor_width
+www.shopmania.com,width,17,monitor_width
+www.softwarecity.ca,width,17,monitor_width
+www.softwarecity.ca,width with stand,1700,monitor_width
+www.vology.com,dimensions  weight,17,monitor_width
+www.vology.com,dimensions  weight,1700,monitor_width
+www.vology.com,dimensions  weight details,17,monitor_width
+www.vology.com,dimensions wxdxh,17,monitor_width
+www.vology.com,dimensions wxdxh,1700,monitor_width
+www.xpcpro.com,width,17,monitor_width
+www.xpcpro.com,width with stand,1700,monitor_width
+www.makingbuyingeasy.co.uk,wifi,45,wifi
+www.mediashopuk.com,wifi,45,wifi
+www.mrhightech.com,wifi,45,wifi
+www.planet-computer.it,wifi,45,wifi
+www.xpcpro.com,wifi,45,wifi

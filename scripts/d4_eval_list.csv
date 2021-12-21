@@ -1,0 +1,11 @@
+type,name,category,directory,datadir,schema_level,instance_level
+d4,camera_centrist,camera,/home/federico/projects/d4/operation_camera,carbonara_official,carbonara_official.csv,carbonara_official_instance.csv
+d4,automotive_liberal,Automotive,/home/federico/projects/d4/operation_automotive_liberal,wdc_sample,wdc_sample_automotive.csv,wdc_sample_automotive_instance.csv
+d4,camera_liberal,camera,/home/federico/projects/d4/operation_camera_liberal,carbonara_official,carbonara_official.csv,carbonara_official_instance.csv
+d4,clothing_liberal,Clothing,/home/federico/projects/d4/operation_clothing_liberal,wdc_sample,wdc_sample_clothing.csv,wdc_sample_clothing_instance.csv
+d4,example,camera,/home/federico/projects/d4/operation_example,example_dataset,example_dataset.csv,example_dataset_instance.csv
+d4,monitor_liberal,monitor,/home/federico/projects/d4/operation_monitor_liberal,monitor_dataset,monitor_dataset.csv,monitor_dataset_instance.csv
+d4,wdc_automotive_centrist,Automotive,/home/federico/projects/d4/operation_wdc_automotive,wdc_sample,wdc_sample_automotive.csv,wdc_sample_automotive_instance.csv
+d4,wdc_jewelry_liberal,Jewelry,/home/federico/projects/d4/operation_jewelry_liberal,wdc_sample,wdc_sample_jewelry.csv,wdc_sample_jewelry_instance.csv
+raf,camera_raf,camera,/home/federico/projects/d4/camera_raf,carbonara_official,carbonara_official.csv,carbonara_official_instance.csv
+raf,monitor_raf,monitor,/home/federico/projects/d4/monitor_raf,monitor_dataset,monitor_dataset.csv,monitor_dataset_instance.csv

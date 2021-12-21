@@ -1,0 +1,23 @@
+{
+    "canon-152030": [
+        "http://source4/canon-152030"
+    ],    
+	"canon-154050": [
+        "http://source4/canon-154050"
+    ],
+	"kodak-101520": [
+        "http://source4/kodak-101520"
+    ],
+	"kodak-ccd": [
+        "http://source4/kodak-ccd"
+    ],    
+	"kodak-cmos": [
+        "http://source4/kodak-cmos"
+    ],    
+	"kodak-x3": [
+        "http://source4/kodak-x3"
+    ],    
+	"kodak-liveMOS": [
+        "http://source4/kodak-liveMOS"
+    ]
+}
