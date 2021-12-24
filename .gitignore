@@ -12,3 +12,6 @@ temp
 *.log
 external_tools/t2k/dbpedia
 external_tools/t2k/webtables
+input/dataset/camera_dataset
+input/dataset/monitor_dataset
+input/dataset/wdc_dataset

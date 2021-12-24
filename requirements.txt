@@ -1,7 +1,7 @@
-cycler==0.10.0
+#cycler==0.10.0
 decorator==4.2.1
 #kiwisolver==1.0.1
-matplotlib==3.3.2
+#matplotlib==3.3.2
 networkx==2.1
 numpy==1.19.2
 pymongo==3.6.1

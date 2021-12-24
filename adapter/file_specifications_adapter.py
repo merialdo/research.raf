@@ -32,14 +32,23 @@ class FileSpecificationsGenerator(abstract_specifications_adapter.AbstractSpecif
         return nb
 
     def source_names_ordered_linkage_decreasing(self):
-        file_with_list_sources = os.path.join(self.spec_dir, 'sources_by_linkage.txt')
         sources_list = []
-        for source_name in io_utils.import_generic_file_per_line(file_with_list_sources):
-            source_name = source_name.replace('\n','')
-            source_split = source_name.split('__')
-            if source_split[1] == _config_.get_category():
-                sources_list.append(SourceSpecifications(source_split[0], source_split[1], None))
-        return sources_list
+        file_with_list_sources = os.path.join(self.spec_dir, 'sources_by_linkage.txt')
+        if os.path.exists(file_with_list_sources):
+            for source_name in io_utils.import_generic_file_per_line(file_with_list_sources):
+                source_name = source_name.replace('\n','')
+                source_split = source_name.split('__')
+                if source_split[1] == _config_.get_category():
+                    sources_list.append(SourceSpecifications(source_split[0], source_split[1], None))
+        else:
+            for asite in os.listdir(self.spec_dir):
+                if os.path.isdir(asite):
+                    site_path = os.path.join(self.spec_dir, asite)
+                    for asource in os.listdir(site_path):
+                        if "_spec.json" in asource:
+                            category = asource.replace("_spec.json", "")
+                            sources_list.append(SourceSpecifications(asite, category, None))
+        return sources_list  
 
     def _specifications_generator_intern(self, normalize_data=True):
         """

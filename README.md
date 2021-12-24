@@ -1,7 +1,7 @@
-# RAF Std approach
+# RaF STD approach
 
-This is an implementation of the RaF-Std approach, for semantic type discovery using clustering.
-RaF-StD takes as input a dataset of multiple sources providing entity descriptions in form of 
+This is an implementation of the RaF-STD approach, for semantic type discovery using clustering.
+RaF-STD takes as input a dataset of multiple sources providing entity descriptions in form of 
 key-value pairs. It requires a partial (even noisy) linkage between sources.
 ## Installation
 
@@ -36,8 +36,8 @@ $ python -m launcher.automatic_evaluation_launcher [mode] [exp_name]
 
 | Algorithm to launch                                         | mode      | 
 |-------------------------------------------------------------|-----------|
-| Standard RaF-StD   (*)                                      | tag-p--7  | 
-| Standard RaF-StD without name grouping  (*)                 | tag-n0--7 | 
+| Standard RaF-STD   (*)                                      | tag-p--7  | 
+| Standard RaF-STD without name grouping  (*)                 | tag-n0--7 | 
 | Vanilla Approach                                            | mixbl     |  
 | Only Source Attribute Matching                              | classic   |     
 

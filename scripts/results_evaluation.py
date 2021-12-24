@@ -245,10 +245,10 @@ def _get_repartitions(sa2data:dict, sas_to_evaluate, sa2expected_cluster, il_gro
         yield (SOURCE_SIZE, _build_splitter_ht(sas_to_evaluate, lambda sa: source2size[sa.source]))
 
     # Notice that here we do not use head-tail (as we do not have a global count) but only top-bottom 50%
-    if _config_.do_experiments_source_linkage():
-        ordered_sources = adapter_factory.spec_factory().source_names_ordered_linkage_decreasing()
-        top_sources = ordered_sources[:round(len(ordered_sources) / 2)]
-        yield ('Sources with most linkage', lambda sa: 'top half' if sa in top_sources else 'bottom half')
+#    if _config_.do_experiments_source_linkage():
+#        ordered_sources = adapter_factory.spec_factory().source_names_ordered_linkage_decreasing()
+#        top_sources = ordered_sources[:round(len(ordered_sources) / 2)]
+#        yield ('Sources with most linkage', lambda sa: 'top half' if sa in top_sources else 'bottom half')
     if _config_.do_experiments_attribute_linkage():
         yield (constants.LINKED_PAGES, _build_splitter_ht(
             sas_to_evaluate, lambda key:
