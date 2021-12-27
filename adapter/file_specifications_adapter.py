@@ -42,13 +42,13 @@ class FileSpecificationsGenerator(abstract_specifications_adapter.AbstractSpecif
                     sources_list.append(SourceSpecifications(source_split[0], source_split[1], None))
         else:
             for asite in os.listdir(self.spec_dir):
-                if os.path.isdir(asite):
-                    site_path = os.path.join(self.spec_dir, asite)
-                    for asource in os.listdir(site_path):
+                asite_fullpath = os.path.join(self.spec_dir, asite)
+                if os.path.isdir(asite_fullpath):
+                    for asource in os.listdir(asite_fullpath):
                         if "_spec.json" in asource:
                             category = asource.replace("_spec.json", "")
                             sources_list.append(SourceSpecifications(asite, category, None))
-        return sources_list  
+        return sources_list
 
     def _specifications_generator_intern(self, normalize_data=True):
         """
