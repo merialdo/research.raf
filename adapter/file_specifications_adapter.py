@@ -47,7 +47,8 @@ class FileSpecificationsGenerator(abstract_specifications_adapter.AbstractSpecif
                     for asource in os.listdir(asite_fullpath):
                         if "_spec.json" in asource:
                             category = asource.replace("_spec.json", "")
-                            sources_list.append(SourceSpecifications(asite, category, None))
+                            if category == _config_.get_category():
+                                sources_list.append(SourceSpecifications(asite, category, None))
         return sources_list
 
     def _specifications_generator_intern(self, normalize_data=True):
